@@ -1,0 +1,1415 @@
+modelo,marca,valor,km,transmissao,combustivel,cor,ano,novidade,vendedor
+CRUZE,CHEVROLET,125990.0,26578.0,automatico,flex,Prata,2022,False,Autoforte Veículos Ltda
+CHERY,CAOA,159990.0,30474.0,automatico,gasolina,Preto,2022,False,Autoforte Veículos Ltda
+YARIS,TOYOTA,98990.0,28079.0,,flex,Azul,2022,False,Toyolex Seminovos - Aracaju
+ETIOS,TOYOTA,62990.0,67795.0,automatico,flex,Cinza,2019,False,Toyolex Seminovos - Aracaju
+CRETA,HYUNDAI,98990.0,37931.0,automatico,flex,Preto,2019,False,Toyolex Seminovos - Aracaju
+COMPASS,JEEP,149990.0,29901.0,automatico,flex,Verde,2022,False,Toyolex Seminovos - Aracaju
+HB20S,HYUNDAI,74990.0,15901.0,manual,flex,Prata,2021,False,Toyolex Seminovos - Aracaju
+FOX,VOLKSWAGEN,51990.0,65901.0,manual,flex,Branco,2017,False,Toyolex Seminovos - Aracaju
+TORO,FIAT,177990.0,16700.0,automatico,diesel,Prata,2022,True,Auto Flex
+RANGER,FORD,135000.0,80000.0,automatico,diesel,Branco,2017,True,Auto Flex
+COMPASS,JEEP,118000.0,73511.0,automatico,flex,Cinza,2018,True,ROGÉRIO AUTOMÓVEIS
+SAVEIRO,VOLKSWAGEN,78000.0,24216.0,manual,flex,Branco,2020,True,ROGÉRIO AUTOMÓVEIS
+COROLLA,TOYOTA,134990.0,12203.0,automatico,flex,Preto,2022,False,Toyolex Seminovos - Aracaju
+GOLF,VOLKSWAGEN,83445.0,138910.0,automatico,gasolina,Branco,2015,False,Toyolex Seminovos - Aracaju
+PALIO,FIAT,46000.0,20415.0,manual,flex,Prata,2016,True,RAFA VEÍCULOS
+GOLF,VOLKSWAGEN,85000.0,107840.0,automatico,flex,Prata,2014,True,RAFA VEÍCULOS
+SANDERO,RENAULT,35000.0,92542.0,,flex,Vermelho,2013,True,RAFA VEÍCULOS
+TUCSON,HYUNDAI,45000.0,85637.0,automatico,flex,Prata,2013,True,RAFA VEÍCULOS
+COROLLA,TOYOTA,120000.0,75000.0,automatico,flex,Branco,2021,True,Gilsimar ferreira de miranda
+TIGGO,CHERY,177000.0,11552.0,automatico,flex,Branco,2023,True,GUIMA VEICULOS - CHERY
+SANDERO,RENAULT,42000.0,96478.0,automatico,flex,Vermelho,2015,True,NETTO VEICULOS
+SANDERO,RENAULT,68990.0,42238.0,automatico,flex,2020,2020,True,Grupo R1 Autos 
+MOBI,FIAT,43000.0,73913.0,,flex,Vermelho,2018,True,NETTO VEICULOS
+SANDERO,RENAULT,65990.0,34000.0,manual,flex,Prata,2021,True,Grupo R1 Autos 
+TRACKER,CHEVROLET,97000.0,88117.0,automatico,flex,Prata,2021,True,MARVEL VEÍCULOS SEMINOVOS
+SANDERO,RENAULT,39990.0,85269.0,manual,flex,Branco,2014,False,TOPCAR Veículos
+PUNTO,FIAT,47900.0,80615.0,manual,flex,Branco,2016,True,CAMESA AUTOMÓVEIS
+STRADA,FIAT,84000.0,55380.0,manual,flex,Branco,2021,False,Isaias Automóveis - Aracaju
+SAVEIRO,VOLKSWAGEN,89990.0,47000.0,manual,flex,Branco,2022,True,Podium Automóveis 
+ONIX,CHEVROLET,83000.0,47000.0,automatico,flex,Preto,2020,True,Erivan José de Almeida Júnior 
+PALIO,FIAT,44800.0,82446.0,manual,flex,Branco,2017,False,Isaias Automóveis - Aracaju
+SPIN,CHEVROLET,91000.0,29792.0,automatico,flex,Prata,2021,True,PRIMECAR AUTOMÓVEIS
+RENEGADE,JEEP,130000.0,14902.0,automatico,flex,Cinza,2022,True,NOSSATERRA SEMINOVOS FIAT / JEEP
+TORO,FIAT,113000.0,20392.0,automatico,flex,Cinza,2022,True,NOSSATERRA SEMINOVOS FIAT / JEEP
+TORO,FIAT,155000.0,41329.0,automatico,diesel,Cinza,2022,True,NOSSATERRA SEMINOVOS FIAT / JEEP
+SANDERO,RENAULT,64990.0,35656.0,manual,flex,Branco,2022,False,XCAR PLUS VEÍCULOS
+SPIN,CHEVROLET,99990.0,31000.0,automatico,flex,Branco,2022,False,Grupo R1 Autos 
+HB20,HYUNDAI,64990.0,61000.0,manual,flex,Prata,2020,False,Grupo R1 Autos 
+UNO,FIAT,54990.0,43200.0,,flex,Branco,2021,False,Grupo R1 Autos 
+ONIX,CHEVROLET,44500.0,68153.0,manual,flex,Preto,2015,False,SHOPCAR MULTIMARCAS
+HB20,HYUNDAI,47500.0,110000.0,manual,flex,Branco,2017,False,MGM AUTOMÓVEIS
+COROLLA,TOYOTA,163000.0,18000.0,automatico,flex,Cinza,2022,False,Auto Flex
+VIRTUS,VOLKSWAGEN,99990.0,32692.0,automatico,flex,Cinza,2021,False,XCAR PLUS VEÍCULOS
+CHERY,CAOA,99990.0,41903.0,automatico,flex,Branco,2021,False,Toyolex Seminovos - Aracaju
+COROLLA,TOYOTA,145990.0,54246.0,automatico,flex,Branco,2021,False,Toyolex Seminovos - Aracaju
+COROLLA,TOYOTA,109990.0,30525.0,automatico,flex,Cinza,2019,False,Toyolex Seminovos - Aracaju
+JETTA,VOLKSWAGEN,67000.0,95000.0,automatico,flex,Branco,2013,False,JLA Corretora
+ONIX,CHEVROLET,56000.0,69000.0,manual,flex,2019,2019,False,JLA Corretora
+CIVIC,HONDA,97990.0,61000.0,automatico,flex,Preto,2017,False,Auto Flex
+PRISMA,CHEVROLET,60000.0,75000.0,manual,flex,Prata,2017,False,Osman Santos
+ONIX,CHEVROLET,57000.0,36000.0,manual,flex,Vermelho,2017,False,Kennyson Medeiros
+STRADA,FIAT,58990.0,78295.0,manual,flex,Branco,2017,False,TOPCAR Veículos
+PRISMA,CHEVROLET,46990.0,81404.0,manual,flex,Cinza,2015,False,TOPCAR Veículos
+HB20S,HYUNDAI,65000.0,25048.0,manual,flex,Prata,2019,False,NETTO VEICULOS
+PRISMA,CHEVROLET,53900.0,42431.0,manual,flex,Branco,2019,False,NETTO VEICULOS
+KWID,RENAULT,53900.0,12080.0,manual,flex,Branco,2022,False,CAMESA AUTOMÓVEIS
+MOBI,FIAT,55900.0,28555.0,manual,flex,Prata,2022,False,CAMESA AUTOMÓVEIS
+HB20,HYUNDAI,52900.0,59000.0,manual,flex,Preto,2017,False,Automania Multimarcas - Aracaju
+FIESTA,FORD,41000.0,124509.0,manual,flex,Prata,2014,False,SERTANEJO VEÍCULOS
+KA,FORD,58990.0,43000.0,manual,flex,Branco,2021,False,Grupo R1 Autos 
+RENEGADE,JEEP,78990.0,53900.0,manual,flex,Verde,2018,False,Grupo R1 Autos 
+CRONOS,FIAT,77990.0,28000.0,manual,flex,Branco,2022,True,Grupo R1 Autos 
+HB20,HYUNDAI,59800.0,70000.0,automatico,flex,Preto,2017,False,Aracaju Automóveis 
+ETIOS,TOYOTA,38800.0,99000.0,manual,flex,Branco,2013,False,Aracaju Automóveis 
+HB20,HYUNDAI,42800.0,110000.0,manual,flex,Branco,2014,False,Aracaju Automóveis 
+HB20,HYUNDAI,55800.0,99000.0,automatico,flex,Branco,2015,False,Aracaju Automóveis 
+PRISMA,CHEVROLET,53500.0,39205.0,manual,flex,Branco,2019,False,PRIMECAR AUTOMÓVEIS
+IX35,HYUNDAI,68800.0,100000.0,automatico,gasolina,Preto,2012,False,Aracaju Automóveis 
+A3,AUDI,86800.0,74000.0,automatico,gasolina,Branco,2016,False,Aracaju Automóveis 
+VIRTUS,VOLKSWAGEN,118990.0,17000.0,automatico,flex,Branco,2021,False,XCAR PLUS VEÍCULOS
+COMPASS,JEEP,119800.0,70000.0,automatico,diesel,Prata,2020,False,Aracaju Automóveis 
+OUTLANDER,MITSUBISHI,70800.0,120000.0,automatico,gasolina,Cinza,2015,False,Aracaju Automóveis 
+RENEGADE,JEEP,70800.0,75000.0,automatico,flex,Vermelho,2016,False,Aracaju Automóveis 
+KA,FORD,49990.0,48876.0,manual,flex,Prata,2019,False,XCAR PLUS VEÍCULOS
+POLO,VOLKSWAGEN,75990.0,26000.0,manual,flex,Branco,2021,False,XCAR PLUS VEÍCULOS
+ARGO,FIAT,61990.0,33000.0,manual,flex,Preto,2021,False,XCAR PLUS VEÍCULOS
+I30,HYUNDAI,59900.0,82800.0,automatico,gasolina,Prata,2014,False,ROGÉRIO AUTOMÓVEIS
+CHERY,CAOA,168000.0,27113.0,automatico,flex,Cinza,2023,False,Supreme Car
+CRETA,HYUNDAI,85990.0,33398.0,automatico,flex,Branco,2020,False,Autoforte Veículos Ltda
+SAVEIRO,VOLKSWAGEN,47900.0,145681.0,manual,flex,Branco,2016,False,CAMESA AUTOMÓVEIS
+DUSTER,RENAULT,49000.0,124989.0,automatico,flex,Verde,2014,False,PRIMECAR AUTOMÓVEIS
+STRADA,FIAT,62990.0,67696.0,manual,flex,Branco,2020,False,XCAR PLUS VEÍCULOS
+C-180,Mercedes,117000.0,90000.0,automatico,flex,Branco,2016,False,Eduardo de souza soares
+FOCUS,FORD,60000.0,90000.0,automatico,gasolina,Verde,2016,False,PEDRO IVO VEICULOS
+SIENA,FIAT,38500.0,106000.0,manual,flex,Prata,2014,False,PEDRO IVO VEICULOS
+SENTRA,NISSAN,52000.0,78000.0,automatico,flex,Preto,2014,False,PEDRO IVO VEICULOS
+SANDERO,RENAULT,41000.0,113000.0,automatico,flex,Prata,2016,False,PEDRO IVO VEICULOS
+ONIX,CHEVROLET,82500.0,23400.0,automatico,flex,Vermelho,2020,False,JANE MEIRE BARBOSA
+SAVEIRO,VOLKSWAGEN,82000.0,93104.0,manual,flex,Prata,2021,False,Isaias Automóveis - Aracaju
+ECOSPORT,FORD,62800.0,85729.0,,flex,Branco,2017,False,Isaias Automóveis - Aracaju
+CIVIC,HONDA,65800.0,121852.0,automatico,flex,Branco,2012,False,Isaias Automóveis - Aracaju
+CIVIC,HONDA,128000.0,86674.0,automatico,gasolina,Cinza,2019,False,Isaias Automóveis - Aracaju
+RANGER,FORD,179800.0,54000.0,automatico,diesel,Preto,2022,False,Aracaju Automóveis 
+RANGER,FORD,179800.0,54000.0,automatico,diesel,Preto,2022,False,Aracaju Automóveis 
+COROLLA,TOYOTA,142999.99,4700.0,automatico,flex,Branco,2023,False,Wellington Inácio Ribeiro 
+VIRTUS,VOLKSWAGEN,72000.0,68017.0,automatico,flex,Branco,2020,False,ATLANTIC MULTIMARCAS
+500,FIAT,45000.0,38502.0,automatico,gasolina,Branco,2014,False,ATLANTIC MULTIMARCAS
+PRISMA,CHEVROLET,55000.0,90842.0,manual,flex,Preto,2017,False,IDEAL MULTIMARCAS
+PRISMA,CHEVROLET,58500.0,80506.0,manual,flex,Branco,2018,False,Foco Veículos
+KA,FORD,49000.0,52312.0,manual,flex,Prata,2019,False,Foco Veículos
+COROLLA,TOYOTA,159900.0,24473.0,automatico,flex,Prata,2022,False,VIA CAR VEÍCULOS
+RANGER,FORD,149990.0,73425.0,automatico,diesel,Cinza,2019,False,Gama Seminovos 
+CRETA,HYUNDAI,95990.0,76272.0,automatico,flex,Branco,2018,False,81 AUTOS 
+MOBI,FIAT,54900.0,40658.0,manual,flex,Preto,2021,False,NETTO VEICULOS
+COROLLA,TOYOTA,125990.0,54633.0,automatico,flex,Prata,2020,False,Autoforte Veículos Ltda
+HR-V,HONDA,115990.0,27877.0,automatico,flex,Prata,2020,False,Autoforte Veículos Ltda
+HB20,HYUNDAI,83990.0,28000.0,automatico,flex,Vermelho,2020,False,Podium Automóveis 
+UP,VOLKSWAGEN,59990.0,49728.0,manual,flex,Cinza,2019,False,XCAR PLUS VEÍCULOS
+COMPASS,JEEP,125000.0,138000.0,automatico,diesel,Branco,2020,False,NOSSATERRA SEMINOVOS FIAT / JEEP
+KA,FORD,56990.0,60000.0,manual,flex,Vermelho,2020,False,NOSSATERRA SEMINOVOS FIAT / JEEP
+HR-V,HONDA,81500.0,92000.0,automatico,flex,Branco,2016,False,Achiles Pinto
+SPORTAGE,KIA,164990.0,19902.0,automatico,flex,Preto,2021,False,Toyolex Seminovos - Aracaju
+COROLLA,TOYOTA,190990.0,3805.0,automatico,flex,Branco,2023,False,Toyolex Seminovos - Aracaju
+ONIX,CHEVROLET,73900.0,68236.0,manual,flex,Cinza,2020,False,Gama Seminovos 
+SANDERO,RENAULT,38500.0,89000.0,automatico,flex,Branco,2014,False,Galeguinho Veículos - Maceió
+ECOSPORT,FORD,87990.0,10847.0,automatico,flex,Branco,2020,True,MANGABEIRAS VEÍCULOS
+KA,FORD,59990.0,32847.0,automatico,flex,Preto,2019,False,MANGABEIRAS VEÍCULOS
+ONIX,CHEVROLET,49000.0,78360.0,manual,flex,Branco,2019,False,PRIMECAR AUTOMÓVEIS
+JETTA,VOLKSWAGEN,85000.0,78340.0,automatico,gasolina,Branco,2016,False,Luciano Henrique Silva da Rocha 
+SPIN,CHEVROLET,57000.0,68000.0,automatico,flex,2017,2017,False,Carlos Henrique Setton
+SANDERO,RENAULT,49990.0,43178.0,automatico,flex,Branco,2020,False,TOPCAR Veículos
+COROLLA,TOYOTA,166990.0,5401.0,automatico,flex,Branco,2023,False,Toyolex Seminovos - Aracaju
+SANDERO,RENAULT,43990.0,79227.0,manual,flex,Azul,2015,False,TOPCAR Veículos
+TRACKER,CHEVROLET,87990.0,39902.0,automatico,flex,Cinza,2019,False,Toyolex Seminovos - Aracaju
+RENEGADE,JEEP,86990.0,43903.0,automatico,flex,Cinza,2020,False,Toyolex Seminovos - Aracaju
+ONIX,CHEVROLET,65000.0,56960.0,manual,flex,Branco,2018,False,Vip Automóveis - Aracaju
+ECOSPORT,FORD,55000.0,96352.0,manual,flex,Branco,2014,False,Vip Automóveis - Aracaju
+SPORTAGE,KIA,119000.0,94989.0,automatico,flex,Azul,2019,False,Isaias Automóveis - Aracaju
+SPIN,CHEVROLET,82800.0,88000.0,manual,flex,Branco,2020,False,Edson Veículos - Aracaju
+TIGGO,CHERY,70990.0,26511.0,manual,flex,Branco,2021,False,GUIMA VEICULOS - CHERY
+SANDERO,RENAULT,58990.0,51454.0,manual,flex,Branco,2019,False,81 AUTOS 
+HB20S,HYUNDAI,82990.0,37495.0,automatico,flex,Branco,2020,False,81 AUTOS 
+HR-V,HONDA,117990.0,23715.0,automatico,flex,Branco,2020,False,Autoforte Veículos Ltda
+RANGER,FORD,195990.0,45083.0,automatico,diesel,Prata,2022,False,Autoforte Veículos Ltda
+ASX,MITSUBISHI,96990.0,58665.0,automatico,flex,Preto,2018,False,Gama  Seminovos - Aracaju
+ONIX,CHEVROLET,58990.0,47000.0,manual,flex,Branco,2019,False,TOPCAR Veículos
+GRAND,FIAT,58000.0,45479.0,manual,flex,Branco,2022,False,Foco Veículos
+ONIX,CHEVROLET,81990.0,46007.0,automatico,flex,Prata,2020,False,MANGABEIRAS VEÍCULOS
+500,FIAT,49800.0,66000.0,automatico,flex,Branco,2014,False,Tiago Calheiros Veículos 
+KWID,RENAULT,46990.0,51512.0,manual,flex,Preto,2020,False,Boa Terra Veículos Maceió
+FOCUS,FORD,54900.0,89648.0,automatico,flex,Branco,2015,False,MGM AUTOMÓVEIS
+SANDERO,RENAULT,42000.0,116312.0,manual,flex,Preto,2017,False,MGM AUTOMÓVEIS
+HB20S,HYUNDAI,55000.0,74900.0,manual,flex,Branco,2018,False,ROGÉRIO AUTOMÓVEIS
+COMPASS,JEEP,197000.0,15415.0,automatico,flex,Grafite,2022,False,IDEAL MULTIMARCAS
+SANDERO,RENAULT,47990.0,63967.0,,flex,Prata,2020,False,JRCA Seminovos
+COMPASS,JEEP,147990.0,34208.0,,diesel,Cinza,2019,False,JRCA Seminovos
+GOL,VOLKSWAGEN,49990.0,54124.0,,flex,Preto,2018,False,JRCA Seminovos
+NIVUS,VOLKSWAGEN,125990.0,16201.0,,flex,Azul,2022,False,JRCA Seminovos
+UP,VOLKSWAGEN,60990.0,53085.0,,flex,Prata,2019,False,JRCA Seminovos
+TAOS,VOLKSWAGEN,183990.0,13186.0,,flex,Bege,2022,False,JRCA Seminovos
+VIRTUS,VOLKSWAGEN,75990.0,67956.0,,flex,Branco,2018,False,JRCA Seminovos
+COROLLA,TOYOTA,87990.0,70765.0,,flex,Preto,2018,False,JRCA Seminovos
+T-CROSS,VOLKSWAGEN,105990.0,8894.0,,flex,Branco,2020,False,JRCA Seminovos
+T-CROSS,VOLKSWAGEN,105990.0,8894.0,,flex,Branco,2020,False,JRCA Seminovos
+T-CROSS,VOLKSWAGEN,105990.0,8894.0,,flex,Branco,2020,False,JRCA Seminovos
+T-CROSS,VOLKSWAGEN,105990.0,8894.0,,flex,Branco,2020,False,JRCA Seminovos
+T-CROSS,VOLKSWAGEN,105990.0,8894.0,,flex,Branco,2020,False,JRCA Seminovos
+T-CROSS,VOLKSWAGEN,105990.0,8894.0,,flex,Branco,2020,False,JRCA Seminovos
+T-CROSS,VOLKSWAGEN,105990.0,8894.0,,flex,Branco,2020,False,JRCA Seminovos
+AMAROK,VOLKSWAGEN,220000.0,49963.0,,diesel,Bege,2021,False,JRCA Seminovos
+AMAROK,VOLKSWAGEN,220000.0,49963.0,,diesel,Bege,2021,False,JRCA Seminovos
+AMAROK,VOLKSWAGEN,220000.0,49963.0,,diesel,Bege,2021,False,JRCA Seminovos
+TRAILBLAZER,CHEVROLET,205000.0,67187.0,,diesel,Branco,2020,False,JRCA Seminovos
+TRAILBLAZER,CHEVROLET,205000.0,67187.0,,diesel,Branco,2020,False,JRCA Seminovos
+TRAILBLAZER,CHEVROLET,205000.0,67187.0,,diesel,Branco,2020,False,JRCA Seminovos
+TRAILBLAZER,CHEVROLET,205000.0,67187.0,,diesel,Branco,2020,False,JRCA Seminovos
+TRAILBLAZER,CHEVROLET,205000.0,67187.0,,diesel,Branco,2020,False,JRCA Seminovos
+TRAILBLAZER,CHEVROLET,205000.0,67187.0,,diesel,Branco,2020,False,JRCA Seminovos
+TRAILBLAZER,CHEVROLET,205000.0,67187.0,,diesel,Branco,2020,False,JRCA Seminovos
+VIRTUS,VOLKSWAGEN,83000.0,26647.0,,flex,Cinza,2021,False,JRCA Seminovos
+VIRTUS,VOLKSWAGEN,83000.0,26647.0,,flex,Cinza,2021,False,JRCA Seminovos
+VIRTUS,VOLKSWAGEN,83000.0,26647.0,,flex,Cinza,2021,False,JRCA Seminovos
+VIRTUS,VOLKSWAGEN,83000.0,26647.0,,flex,Cinza,2021,False,JRCA Seminovos
+VIRTUS,VOLKSWAGEN,83000.0,26647.0,,flex,Cinza,2021,False,JRCA Seminovos
+VIRTUS,VOLKSWAGEN,83000.0,26647.0,,flex,Cinza,2021,False,JRCA Seminovos
+VIRTUS,VOLKSWAGEN,83000.0,26647.0,,flex,Cinza,2021,False,JRCA Seminovos
+VIRTUS,VOLKSWAGEN,83000.0,26647.0,,flex,Cinza,2021,False,JRCA Seminovos
+VIRTUS,VOLKSWAGEN,83000.0,26647.0,,flex,Cinza,2021,False,JRCA Seminovos
+VIRTUS,VOLKSWAGEN,83000.0,26647.0,,flex,Cinza,2021,False,JRCA Seminovos
+VIRTUS,VOLKSWAGEN,83000.0,26647.0,,flex,Cinza,2021,False,JRCA Seminovos
+VIRTUS,VOLKSWAGEN,83000.0,26647.0,,flex,Cinza,2021,False,JRCA Seminovos
+VIRTUS,VOLKSWAGEN,83000.0,26647.0,,flex,Cinza,2021,False,JRCA Seminovos
+ONIX,CHEVROLET,65000.0,25134.0,,flex,Branco,2020,False,JRCA Seminovos
+ONIX,CHEVROLET,65000.0,25134.0,,flex,Branco,2020,False,JRCA Seminovos
+ONIX,CHEVROLET,65000.0,25134.0,,flex,Branco,2020,False,JRCA Seminovos
+ONIX,CHEVROLET,65000.0,25134.0,,flex,Branco,2020,False,JRCA Seminovos
+ONIX,CHEVROLET,65000.0,25134.0,,flex,Branco,2020,False,JRCA Seminovos
+ONIX,CHEVROLET,65000.0,25134.0,,flex,Branco,2020,False,JRCA Seminovos
+ONIX,CHEVROLET,65000.0,25134.0,,flex,Branco,2020,False,JRCA Seminovos
+ONIX,CHEVROLET,65000.0,25134.0,,flex,Branco,2020,False,JRCA Seminovos
+ONIX,CHEVROLET,65000.0,25134.0,,flex,Branco,2020,False,JRCA Seminovos
+ONIX,CHEVROLET,65000.0,25134.0,,flex,Branco,2020,False,JRCA Seminovos
+ONIX,CHEVROLET,65000.0,25134.0,,flex,Branco,2020,False,JRCA Seminovos
+ONIX,CHEVROLET,65000.0,25134.0,,flex,Branco,2020,False,JRCA Seminovos
+FRONTIER,NISSAN,195000.0,13653.0,,diesel,Preto,2022,False,JRCA Seminovos
+FRONTIER,NISSAN,195000.0,13653.0,,diesel,Preto,2022,False,JRCA Seminovos
+FRONTIER,NISSAN,195000.0,13653.0,,diesel,Preto,2022,False,JRCA Seminovos
+FRONTIER,NISSAN,195000.0,13653.0,,diesel,Preto,2022,False,JRCA Seminovos
+FRONTIER,NISSAN,195000.0,13653.0,,diesel,Preto,2022,False,JRCA Seminovos
+FRONTIER,NISSAN,195000.0,13653.0,,diesel,Preto,2022,False,JRCA Seminovos
+FRONTIER,NISSAN,195000.0,13653.0,,diesel,Preto,2022,False,JRCA Seminovos
+FRONTIER,NISSAN,195000.0,13653.0,,diesel,Preto,2022,False,JRCA Seminovos
+FRONTIER,NISSAN,195000.0,13653.0,,diesel,Preto,2022,False,JRCA Seminovos
+FRONTIER,NISSAN,195000.0,13653.0,,diesel,Preto,2022,False,JRCA Seminovos
+FRONTIER,NISSAN,195000.0,13653.0,,diesel,Preto,2022,False,JRCA Seminovos
+FRONTIER,NISSAN,195000.0,13653.0,,diesel,Preto,2022,False,JRCA Seminovos
+FRONTIER,NISSAN,195000.0,13653.0,,diesel,Preto,2022,False,JRCA Seminovos
+FRONTIER,NISSAN,195000.0,13653.0,,diesel,Preto,2022,False,JRCA Seminovos
+ECLIPSE,MITSUBISHI,177000.0,8271.0,,gasolina,Branco,2022,False,JRCA Seminovos
+ECLIPSE,MITSUBISHI,177000.0,8271.0,,gasolina,Branco,2022,False,JRCA Seminovos
+ECLIPSE,MITSUBISHI,177000.0,8271.0,,gasolina,Branco,2022,False,JRCA Seminovos
+ECLIPSE,MITSUBISHI,177000.0,8271.0,,gasolina,Branco,2022,False,JRCA Seminovos
+ECLIPSE,MITSUBISHI,177000.0,8271.0,,gasolina,Branco,2022,False,JRCA Seminovos
+ECLIPSE,MITSUBISHI,177000.0,8271.0,,gasolina,Branco,2022,False,JRCA Seminovos
+ECLIPSE,MITSUBISHI,177000.0,8271.0,,gasolina,Branco,2022,False,JRCA Seminovos
+ECLIPSE,MITSUBISHI,177000.0,8271.0,,gasolina,Branco,2022,False,JRCA Seminovos
+ECLIPSE,MITSUBISHI,177000.0,8271.0,,gasolina,Branco,2022,False,JRCA Seminovos
+ECLIPSE,MITSUBISHI,177000.0,8271.0,,gasolina,Branco,2022,False,JRCA Seminovos
+ECLIPSE,MITSUBISHI,177000.0,8271.0,,gasolina,Branco,2022,False,JRCA Seminovos
+ECLIPSE,MITSUBISHI,177000.0,8271.0,,gasolina,Branco,2022,False,JRCA Seminovos
+ECLIPSE,MITSUBISHI,177000.0,8271.0,,gasolina,Branco,2022,False,JRCA Seminovos
+ECLIPSE,MITSUBISHI,177000.0,8271.0,,gasolina,Branco,2022,False,JRCA Seminovos
+ECOSPORT,FORD,78990.0,22520.0,,flex,Vermelho,2020,False,JRCA Seminovos
+ECOSPORT,FORD,78990.0,22520.0,,flex,Vermelho,2020,False,JRCA Seminovos
+ECOSPORT,FORD,78990.0,22520.0,,flex,Vermelho,2020,False,JRCA Seminovos
+ECOSPORT,FORD,78990.0,22520.0,,flex,Vermelho,2020,False,JRCA Seminovos
+ECOSPORT,FORD,78990.0,22520.0,,flex,Vermelho,2020,False,JRCA Seminovos
+ECOSPORT,FORD,78990.0,22520.0,,flex,Vermelho,2020,False,JRCA Seminovos
+ECOSPORT,FORD,78990.0,22520.0,,flex,Vermelho,2020,False,JRCA Seminovos
+ECOSPORT,FORD,78990.0,22520.0,,flex,Vermelho,2020,False,JRCA Seminovos
+ECOSPORT,FORD,78990.0,22520.0,,flex,Vermelho,2020,False,JRCA Seminovos
+ECOSPORT,FORD,78990.0,22520.0,,flex,Vermelho,2020,False,JRCA Seminovos
+ECOSPORT,FORD,78990.0,22520.0,,flex,Vermelho,2020,False,JRCA Seminovos
+ECOSPORT,FORD,78990.0,22520.0,,flex,Vermelho,2020,False,JRCA Seminovos
+ECOSPORT,FORD,78990.0,22520.0,,flex,Vermelho,2020,False,JRCA Seminovos
+ECOSPORT,FORD,78990.0,22520.0,,flex,Vermelho,2020,False,JRCA Seminovos
+HB20S,HYUNDAI,78000.0,16399.0,,flex,Prata,2022,False,JRCA Seminovos
+HB20S,HYUNDAI,78000.0,16399.0,,flex,Prata,2022,False,JRCA Seminovos
+HB20S,HYUNDAI,78000.0,16399.0,,flex,Prata,2022,False,JRCA Seminovos
+HB20S,HYUNDAI,78000.0,16399.0,,flex,Prata,2022,False,JRCA Seminovos
+HB20S,HYUNDAI,78000.0,16399.0,,flex,Prata,2022,False,JRCA Seminovos
+HB20S,HYUNDAI,78000.0,16399.0,,flex,Prata,2022,False,JRCA Seminovos
+HB20S,HYUNDAI,78000.0,16399.0,,flex,Prata,2022,False,JRCA Seminovos
+HB20S,HYUNDAI,78000.0,16399.0,,flex,Prata,2022,False,JRCA Seminovos
+HB20S,HYUNDAI,78000.0,16399.0,,flex,Prata,2022,False,JRCA Seminovos
+HB20S,HYUNDAI,78000.0,16399.0,,flex,Prata,2022,False,JRCA Seminovos
+HB20S,HYUNDAI,78000.0,16399.0,,flex,Prata,2022,False,JRCA Seminovos
+HB20S,HYUNDAI,78000.0,16399.0,,flex,Prata,2022,False,JRCA Seminovos
+HB20S,HYUNDAI,78000.0,16399.0,,flex,Prata,2022,False,JRCA Seminovos
+HB20S,HYUNDAI,78000.0,16399.0,,flex,Prata,2022,False,JRCA Seminovos
+RENEGADE,JEEP,129990.0,12167.0,,flex,Prata,2022,False,JRCA Seminovos
+RENEGADE,JEEP,129990.0,12167.0,,flex,Prata,2022,False,JRCA Seminovos
+RENEGADE,JEEP,129990.0,12167.0,,flex,Prata,2022,False,JRCA Seminovos
+RENEGADE,JEEP,129990.0,12167.0,,flex,Prata,2022,False,JRCA Seminovos
+RENEGADE,JEEP,129990.0,12167.0,,flex,Prata,2022,False,JRCA Seminovos
+RENEGADE,JEEP,129990.0,12167.0,,flex,Prata,2022,False,JRCA Seminovos
+RENEGADE,JEEP,129990.0,12167.0,,flex,Prata,2022,False,JRCA Seminovos
+RENEGADE,JEEP,129990.0,12167.0,,flex,Prata,2022,False,JRCA Seminovos
+RENEGADE,JEEP,129990.0,12167.0,,flex,Prata,2022,False,JRCA Seminovos
+RENEGADE,JEEP,129990.0,12167.0,,flex,Prata,2022,False,JRCA Seminovos
+RENEGADE,JEEP,129990.0,12167.0,,flex,Prata,2022,False,JRCA Seminovos
+RENEGADE,JEEP,129990.0,12167.0,,flex,Prata,2022,False,JRCA Seminovos
+RENEGADE,JEEP,129990.0,12167.0,,flex,Prata,2022,False,JRCA Seminovos
+RENEGADE,JEEP,129990.0,12167.0,,flex,Prata,2022,False,JRCA Seminovos
+ONIX,CHEVROLET,89990.0,2493.0,,flex,Preto,2023,False,JRCA Seminovos
+ONIX,CHEVROLET,89990.0,2493.0,,flex,Preto,2023,False,JRCA Seminovos
+ONIX,CHEVROLET,89990.0,2493.0,,flex,Preto,2023,False,JRCA Seminovos
+ONIX,CHEVROLET,89990.0,2493.0,,flex,Preto,2023,False,JRCA Seminovos
+ONIX,CHEVROLET,89990.0,2493.0,,flex,Preto,2023,False,JRCA Seminovos
+ONIX,CHEVROLET,89990.0,2493.0,,flex,Preto,2023,False,JRCA Seminovos
+ONIX,CHEVROLET,89990.0,2493.0,,flex,Preto,2023,False,JRCA Seminovos
+ONIX,CHEVROLET,89990.0,2493.0,,flex,Preto,2023,False,JRCA Seminovos
+ONIX,CHEVROLET,89990.0,2493.0,,flex,Preto,2023,False,JRCA Seminovos
+ONIX,CHEVROLET,89990.0,2493.0,,flex,Preto,2023,False,JRCA Seminovos
+ONIX,CHEVROLET,89990.0,2493.0,,flex,Preto,2023,False,JRCA Seminovos
+ONIX,CHEVROLET,89990.0,2493.0,,flex,Preto,2023,False,JRCA Seminovos
+ONIX,CHEVROLET,89990.0,2493.0,,flex,Preto,2023,False,JRCA Seminovos
+ONIX,CHEVROLET,89990.0,2493.0,,flex,Preto,2023,False,JRCA Seminovos
+CIVIC,HONDA,117900.0,49000.0,automatico,flex,Branco,2020,False,JRCA Seminovos
+CIVIC,HONDA,117900.0,49000.0,automatico,flex,Branco,2020,False,JRCA Seminovos
+CIVIC,HONDA,117900.0,49000.0,automatico,flex,Branco,2020,False,JRCA Seminovos
+CIVIC,HONDA,117900.0,49000.0,automatico,flex,Branco,2020,False,JRCA Seminovos
+CIVIC,HONDA,117900.0,49000.0,automatico,flex,Branco,2020,False,JRCA Seminovos
+CIVIC,HONDA,117900.0,49000.0,automatico,flex,Branco,2020,False,JRCA Seminovos
+CIVIC,HONDA,117900.0,49000.0,automatico,flex,Branco,2020,False,JRCA Seminovos
+CIVIC,HONDA,117900.0,49000.0,automatico,flex,Branco,2020,False,JRCA Seminovos
+CIVIC,HONDA,117900.0,49000.0,automatico,flex,Branco,2020,False,JRCA Seminovos
+CIVIC,HONDA,117900.0,49000.0,automatico,flex,Branco,2020,False,JRCA Seminovos
+CIVIC,HONDA,117900.0,49000.0,automatico,flex,Branco,2020,False,JRCA Seminovos
+CIVIC,HONDA,117900.0,49000.0,automatico,flex,Branco,2020,False,JRCA Seminovos
+CIVIC,HONDA,117900.0,49000.0,automatico,flex,Branco,2020,False,JRCA Seminovos
+CIVIC,HONDA,117900.0,49000.0,automatico,flex,Branco,2020,False,JRCA Seminovos
+AMAROK,VOLKSWAGEN,174999.0,81546.0,automatico,diesel,Branco,2019,False,JRCA Seminovos
+AMAROK,VOLKSWAGEN,174999.0,81546.0,automatico,diesel,Branco,2019,False,JRCA Seminovos
+AMAROK,VOLKSWAGEN,174999.0,81546.0,automatico,diesel,Branco,2019,False,JRCA Seminovos
+AMAROK,VOLKSWAGEN,174999.0,81546.0,automatico,diesel,Branco,2019,False,JRCA Seminovos
+AMAROK,VOLKSWAGEN,174999.0,81546.0,automatico,diesel,Branco,2019,False,JRCA Seminovos
+AMAROK,VOLKSWAGEN,174999.0,81546.0,automatico,diesel,Branco,2019,False,JRCA Seminovos
+AMAROK,VOLKSWAGEN,174999.0,81546.0,automatico,diesel,Branco,2019,False,JRCA Seminovos
+ECLIPSE,MITSUBISHI,179990.0,4097.0,automatico,gasolina,Prata,2022,False,JRCA Seminovos
+ECLIPSE,MITSUBISHI,179990.0,4097.0,automatico,gasolina,Prata,2022,False,JRCA Seminovos
+ECLIPSE,MITSUBISHI,179990.0,4097.0,automatico,gasolina,Prata,2022,False,JRCA Seminovos
+ECLIPSE,MITSUBISHI,179990.0,4097.0,automatico,gasolina,Prata,2022,False,JRCA Seminovos
+ECLIPSE,MITSUBISHI,179990.0,4097.0,automatico,gasolina,Prata,2022,False,JRCA Seminovos
+ECLIPSE,MITSUBISHI,179990.0,4097.0,automatico,gasolina,Prata,2022,False,JRCA Seminovos
+ECLIPSE,MITSUBISHI,179990.0,4097.0,automatico,gasolina,Prata,2022,False,JRCA Seminovos
+COROLLA,TOYOTA,128000.0,84166.0,,flex,Preto,2022,False,JRCA Seminovos
+COROLLA,TOYOTA,128000.0,84166.0,,flex,Preto,2022,False,JRCA Seminovos
+COROLLA,TOYOTA,128000.0,84166.0,,flex,Preto,2022,False,JRCA Seminovos
+COROLLA,TOYOTA,128000.0,84166.0,,flex,Preto,2022,False,JRCA Seminovos
+COROLLA,TOYOTA,128000.0,84166.0,,flex,Preto,2022,False,JRCA Seminovos
+COROLLA,TOYOTA,128000.0,84166.0,,flex,Preto,2022,False,JRCA Seminovos
+TORO,FIAT,145000.0,90595.0,,diesel,Azul,2021,False,JRCA Seminovos
+COROLLA,TOYOTA,162000.0,8700.0,automatico,flex,Branco,2023,False,JRCA Seminovos
+COMPASS,JEEP,121000.0,37489.0,,flex,Branco,2021,False,JRCA Seminovos
+COMPASS,JEEP,121000.0,37489.0,,flex,Branco,2021,False,JRCA Seminovos
+COROLLA,TOYOTA,162000.0,8700.0,automatico,flex,Branco,2023,False,JRCA Seminovos
+TUCSON,HYUNDAI,142990.0,36676.0,,gasolina,Branco,2021,False,Autoforte Veículos Ltda
+FUSION,FORD,110800.0,103000.0,automatico,gasolina,Preto,2017,False,Aracaju Automóveis 
+KICKS,NISSAN,86800.0,90000.0,,flex,Branco,2017,False,Aracaju Automóveis 
+COMPASS,JEEP,105800.0,51000.0,automatico,flex,Branco,2017,False,Aracaju Automóveis 
+208,PEUGEOT,72000.0,14494.0,manual,flex,Preto,2022,False,Isaias Automóveis - Aracaju
+WR-V,HONDA,96800.0,52250.0,automatico,flex,Cinza,2020,False,Isaias Automóveis - Aracaju
+HR-V,HONDA,126000.0,22043.0,automatico,flex,Branco,2021,False,IDEAL MULTIMARCAS
+HILUX,TOYOTA,205000.0,58000.0,automatico,diesel,Prata,2020,False,Vip Automóveis - Aracaju
+YARIS,TOYOTA,92000.0,13000.0,,flex,Branco,2020,False,Vip Automóveis - Aracaju
+TRAILBLAZER,CHEVROLET,205000.0,77220.0,automatico,diesel,Branco,2018,False,Vip Automóveis - Aracaju
+RENEGADE,JEEP,128000.0,11535.0,automatico,flex,Preto,2022,False,Vip Automóveis - Aracaju
+HB20,HYUNDAI,44500.0,68600.0,,flex,Prata,2015,False,Bruno Rodrigues Clementino
+SAVEIRO,VOLKSWAGEN,65800.0,55555.0,manual,flex,Branco,2018,False,Edson Veículos - Aracaju
+SAVEIRO,VOLKSWAGEN,65800.0,55555.0,manual,flex,Branco,2018,False,Edson Veículos - Aracaju
+VIRTUS,VOLKSWAGEN,84990.0,30825.0,manual,flex,Cinza,2022,False,Autoforte Veículos Ltda
+FIESTA,FORD,52000.0,75384.0,,flex,Branco,2016,False,VIA CAR VEÍCULOS
+TORO,FIAT,105000.0,55000.0,automatico,flex,Marrom,2019,False,JLA Corretora
+S10,CHEVROLET,199900.0,58000.0,automatico,diesel,Cinza,2021,False,Gabriel Lyra
+HB20S,HYUNDAI,77990.0,32000.0,automatico,flex,Prata,2019,False,Podium Automóveis 
+VIRTUS,VOLKSWAGEN,80000.0,51767.0,manual,flex,Prata,2021,False,Gama Seminovos 
+YARIS,TOYOTA,86000.0,42000.0,,flex,Branco,2020,False,JLA Corretora
+RENEGADE,JEEP,91800.0,82836.0,automatico,flex,Preto,2021,False,Isaias Automóveis - Aracaju
+TRACKER,CHEVROLET,94000.0,65700.0,automatico,flex,Vermelho,2018,False,Isaias Automóveis - Aracaju
+FRONTIER,NISSAN,165000.0,95000.0,automatico,diesel,Prata,2019,False,ANDRE LUIS RAMIRES SEABRA
+TRACKER,CHEVROLET,94990.0,30902.0,automatico,flex,Cinza,2019,False,Toyolex Seminovos - Aracaju
+AIRCROSS,CITROËN,47900.0,72585.0,manual,flex,Branco,2015,False,PRIMECAR AUTOMÓVEIS
+KWID,RENAULT,43000.0,49249.0,manual,flex,Laranja,2019,False,Gama Seminovos 
+RENEGADE,JEEP,79500.0,26000.0,automatico,flex,Branco,2019,False,JOSE KLEBERTH TENORIO FILHO
+FOX,VOLKSWAGEN,71990.0,19000.0,manual,flex,Branco,2022,False,TOPCAR Veículos
+DUSTER,RENAULT,65999.0,69500.0,manual,flex,Marrom,2016,False,TOPCAR Veículos
+GOL,VOLKSWAGEN,55000.0,45000.0,manual,flex,Prata,2021,False,Foco Veículos
+RENEGADE,JEEP,75900.0,95000.0,automatico,flex,Preto,2016,False,Automania Multimarcas - Aracaju
+T-CROSS,VOLKSWAGEN,135900.0,26000.0,automatico,flex,Branco,2021,False,Automania Multimarcas - Aracaju
+KWID,RENAULT,52000.0,52832.0,manual,flex,Branco,2022,False,GILVAN VEÍCULOS
+ONIX,CHEVROLET,64000.0,33992.0,manual,flex,Branco,2021,False,GILVAN VEÍCULOS
+HB20X,HYUNDAI,87000.0,41596.0,automatico,flex,Prata,2021,False,GILVAN VEÍCULOS
+LOGAN,RENAULT,51000.0,80739.0,automatico,flex,Branco,2020,False,GILVAN VEÍCULOS
+ECOSPORT,FORD,75000.0,77349.0,automatico,flex,Branco,2020,False,GILVAN VEÍCULOS
+VIRTUS,VOLKSWAGEN,69000.0,47289.0,automatico,flex,Cinza,2019,False,SERTANEJO VEÍCULOS
+KA,FORD,47500.0,104000.0,manual,flex,Branco,2019,False,SERTANEJO VEÍCULOS
+TUCSON,HYUNDAI,57000.0,70000.0,automatico,flex,Cinza,2015,False,JLA Corretora
+T-CROSS,VOLKSWAGEN,108990.0,66000.0,automatico,flex,Cinza,2020,False,XCAR PLUS VEÍCULOS
+T-CROSS,VOLKSWAGEN,108990.0,18215.0,automatico,flex,Prata,2020,False,XCAR PLUS VEÍCULOS
+DUSTER,RENAULT,64990.0,71227.0,manual,flex,Cinza,2016,False,TOPCAR Veículos
+NIVUS,VOLKSWAGEN,118990.0,25000.0,automatico,flex,Cinza,2021,False,Gama Seminovos 
+CIVIC,HONDA,105000.0,50763.0,automatico,flex,Preto,2017,False,Isaias Automóveis - Aracaju
+ONIX,CHEVROLET,45000.0,110545.0,manual,flex,Branco,2014,False,ATLANTIC MULTIMARCAS
+ONIX,CHEVROLET,56000.0,40925.0,manual,flex,Branco,2020,False,MGM AUTOMÓVEIS
+COBALT,CHEVROLET,34000.0,144000.0,,flex,Prata,2012,False,Foco Veículos
+TORO,FIAT,134870.0,77000.0,automatico,diesel,Vermelho,2019,False,FOFÃO MULTIMARCAS
+CAPTUR,RENAULT,118000.0,14167.0,,flex,Cinza,2022,False,PRIMECAR AUTOMÓVEIS
+PRISMA,CHEVROLET,49800.0,121640.0,manual,flex,Branco,2015,False,Isaias Automóveis - Aracaju
+KICKS,NISSAN,87800.0,97848.0,,flex,Cinza,2018,False,Isaias Automóveis - Aracaju
+KICKS,NISSAN,91800.0,60110.0,,flex,Branco,2020,False,Isaias Automóveis - Aracaju
+SPIN,CHEVROLET,86500.0,66000.0,automatico,flex,Azul,2020,False,Auto Flex
+GOL,VOLKSWAGEN,55990.0,76286.0,manual,flex,Branco,2022,False,Boa Terra Veículos Maceió
+POLO,VOLKSWAGEN,75990.0,26185.0,manual,flex,Branco,2021,False,Boa Terra Veículos Maceió
+KWID,RENAULT,45990.0,59418.0,manual,flex,Vermelho,2018,False,81 AUTOS 
+TRAILBLAZER,CHEVROLET,220000.0,46000.0,automatico,diesel,Preto,2020,False,Cide Demetrios Mendonça Teles
+KICKS,NISSAN,82000.0,53281.0,,flex,Branco,2019,False,MARVEL VEÍCULOS SEMINOVOS
+TORO,FIAT,120000.0,61699.0,automatico,diesel,Preto,2019,False,MARVEL VEÍCULOS SEMINOVOS
+KA,FORD,54900.0,37000.0,manual,flex,Prata,2020,False,CAMESA AUTOMÓVEIS
+VIRTUS,VOLKSWAGEN,77990.0,68858.0,automatico,flex,Grafite,2018,False,Gama  Seminovos - Aracaju
+TRAILBLAZER,CHEVROLET,182990.0,90000.0,automatico,diesel,Branco,2018,False,Capela Revcar
+COMPASS,JEEP,175000.0,46090.0,automatico,diesel,Marrom,2021,False,Francisco Ferreira dos Santos Filho
+PUNTO,FIAT,42000.0,70788.0,manual,flex,Branco,2015,False,MGM AUTOMÓVEIS
+HB20,HYUNDAI,53900.0,101000.0,automatico,flex,Branco,2015,False,MGM AUTOMÓVEIS
+TORO,FIAT,109900.0,57392.0,automatico,flex,Prata,2021,False,MGM AUTOMÓVEIS
+COMPASS,JEEP,146000.0,31000.0,automatico,diesel,2020,2020,False,NOSSATERRA SEMINOVOS FIAT / JEEP
+RANGER,FORD,144990.0,154000.0,automatico,diesel,Branco,2017,False,Capela Revcar
+HB20S,HYUNDAI,54990.0,61902.0,automatico,flex,Prata,2015,False,Toyolex Seminovos - Aracaju
+VERSA,NISSAN,71800.0,100500.0,,flex,Branco,2020,False,Isaias Automóveis - Aracaju
+SOUL,KIA,55990.0,87761.0,automatico,flex,Branco,2014,False,XCAR PLUS VEÍCULOS
+ARGO,FIAT,65000.0,46489.0,manual,flex,Branco,2022,False,Foco Veículos
+ARGO,FIAT,58800.0,37000.0,manual,flex,Prata,2021,False,Edson Veículos - Aracaju
+POLO,VOLKSWAGEN,85000.0,83671.0,automatico,flex,Branco,2019,False,Supreme Car
+KWID,RENAULT,46990.0,74152.0,manual,flex,Branco,2020,False,XCAR PLUS VEÍCULOS
+HB20,HYUNDAI,68990.0,80000.0,automatico,flex,Branco,2019,False,XCAR PLUS VEÍCULOS
+HR-V,HONDA,113990.0,66112.0,automatico,flex,Azul,2020,False,XCAR PLUS VEÍCULOS
+RANGER,FORD,126800.0,140000.0,automatico,diesel,Prata,2015,False,Aracaju Automóveis 
+VERSA,NISSAN,67000.0,63051.0,manual,flex,Branco,2020,False,Gama Seminovos 
+HB20,HYUNDAI,47000.0,66326.0,manual,flex,Branco,2016,False,Gama Seminovos 
+STRADA,FIAT,79800.0,47000.0,manual,flex,Branco,2021,False,Edson Veículos - Aracaju
+C3,CITROËN,43800.0,66643.0,automatico,flex,Branco,2015,False,Edson Veículos - Aracaju
+HB20S,HYUNDAI,48800.0,102000.0,manual,flex,Azul,2015,False,Aracaju Automóveis 
+KA,FORD,70800.0,30000.0,automatico,flex,Branco,2021,False,Aracaju Automóveis 
+HILUX,TOYOTA,222800.0,150000.0,automatico,diesel,Preto,2017,False,Aracaju Automóveis 
+RENEGADE,JEEP,79800.0,61000.0,automatico,flex,Cinza,2018,False,Aracaju Automóveis 
+STRADA,FIAT,99800.0,42000.0,manual,flex,Branco,2022,False,Aracaju Automóveis 
+CRUZE,CHEVROLET,86800.0,58000.0,automatico,flex,Preto,2017,False,Aracaju Automóveis 
+SPORTAGE,KIA,85800.0,103000.0,automatico,flex,Preto,2014,False,Aracaju Automóveis 
+FIORINO,FIAT,79990.0,79843.0,manual,flex,Branco,2020,False,TOPCAR Veículos
+KWID,RENAULT,43000.0,79089.0,manual,flex,Branco,2019,False,Gama Seminovos 
+COROLLA,TOYOTA,103800.0,112000.0,automatico,flex,Prata,2017,False,Aracaju Automóveis 
+FRONTIER,NISSAN,125800.0,62000.0,automatico,diesel,Branco,2016,False,Aracaju Automóveis 
+DUSTER,RENAULT,96000.0,77286.0,,flex,Cinza,2021,False,Gama Seminovos 
+COMPASS,JEEP,160990.0,22456.0,automatico,diesel,Branco,2021,False,Gama Seminovos 
+KA,FORD,46500.0,52020.0,manual,flex,Branco,2018,False,Foco Veículos
+HB20S,HYUNDAI,74900.0,9702.0,manual,flex,Branco,2022,False,CAMESA AUTOMÓVEIS
+HB20S,HYUNDAI,67990.0,76100.0,automatico,flex,Branco,2017,False,Manchete Multimarcas
+HB20,HYUNDAI,66990.0,76438.0,manual,flex,Prata,2019,False,Manchete Multimarcas
+HR-V,HONDA,123800.0,35280.0,automatico,flex,Branco,2020,False,Isaias Automóveis - Aracaju
+HB20,HYUNDAI,60990.0,52000.0,manual,flex,Prata,2019,False,Manchete Multimarcas
+ONIX,CHEVROLET,80990.0,44866.0,manual,flex,Branco,2021,False,Manchete Multimarcas
+UP,VOLKSWAGEN,59000.0,72837.0,manual,flex,Laranja,2018,False,SEVEN CAR MULTIMARCAS
+SANDERO,RENAULT,49000.0,40000.0,manual,flex,Branco,2020,False,SEVEN CAR MULTIMARCAS
+ONIX,CHEVROLET,81990.0,38758.0,automatico,flex,Prata,2020,False,Manchete Multimarcas
+SANDERO,RENAULT,24000.0,117922.0,,flex,Prata,2012,False,Daiana Vanessa de Araujo 
+Q3,AUDI,128990.0,58224.0,,flex,Preto,2018,False,Manchete Multimarcas
+CRUZE,CHEVROLET,127900.0,44000.0,automatico,flex,Branco,2022,False,Automania Multimarcas - Aracaju
+308,PEUGEOT,35900.0,123000.0,manual,flex,Branco,2013,False,Automania Multimarcas - Aracaju
+TORO,FIAT,132000.0,19666.0,automatico,flex,Preto,2022,False,Mago Automóveis - Aracaju
+T-CROSS,VOLKSWAGEN,108000.0,59245.0,automatico,flex,Preto,2020,False,Mago Automóveis - Aracaju
+ECOSPORT,FORD,53000.0,121900.0,automatico,flex,Branco,2014,False,Mago Automóveis - Aracaju
+HB20S,HYUNDAI,72000.0,78000.0,automatico,flex,Branco,2019,False,KM VEÍCULOS
+COMPASS,JEEP,147900.0,74409.0,automatico,diesel,Prata,2020,False,Taiyo Auto Import
+FIT,HONDA,64900.0,86212.0,automatico,flex,Cinza,2016,False,Taiyo Auto Import
+SPIN,CHEVROLET,47000.0,82000.0,manual,flex,2018,2018,False,Jordan Ronald Correia De Araújo
+KICKS,NISSAN,85000.0,98000.0,,flex,Vermelho,2019,False,NOSSATERRA SEMINOVOS FIAT / JEEP
+HB20,HYUNDAI,64990.0,76158.0,automatico,flex,Branco,2018,False,Grupo R1 Autos 
+CRETA,HYUNDAI,82990.0,66902.0,manual,flex,Prata,2018,False,Toyolex Seminovos - Aracaju
+COROLLA,TOYOTA,182990.0,11469.0,automatico,flex,Branco,2022,False,Toyolex Seminovos - Aracaju
+COROLLA,TOYOTA,157990.0,57281.0,automatico,flex,Preto,2022,False,Toyolex Seminovos - Aracaju
+COROLLA,TOYOTA,139990.0,24902.0,automatico,flex,Preto,2020,False,Toyolex Seminovos - Aracaju
+ETIOS,TOYOTA,59990.0,46696.0,automatico,flex,Branco,2019,False,TOPCAR Veículos
+RENEGADE,JEEP,69990.0,97983.0,manual,flex,Branco,2016,False,TOPCAR Veículos
+GRAND,FIAT,61990.0,39407.0,manual,flex,Prata,2021,False,TOPCAR Veículos
+ECOSPORT,FORD,53800.0,78770.0,manual,flex,Preto,2014,False,Isaias Automóveis - Aracaju
+HB20,HYUNDAI,49900.0,130020.0,manual,flex,Bege,2017,False,Isaias Automóveis - Aracaju
+STRADA,FIAT,78000.0,30000.0,manual,flex,Branco,2021,False,VIA CAR VEÍCULOS
+C3,CITROËN,44000.0,76000.0,manual,flex,Branco,2017,False,ROGÉRIO AUTOMÓVEIS
+POLO,VOLKSWAGEN,69900.0,111123.0,manual,flex,Branco,2021,False,VIA CAR VEÍCULOS
+SAVEIRO,VOLKSWAGEN,69900.0,33306.0,manual,flex,Branco,2021,False,VIA CAR VEÍCULOS
+GLA,MERCEDES-BENZ,138000.0,54974.0,automatico,flex,Preto,2018,False,Gama Seminovos 
+SANDERO,RENAULT,49990.0,44000.0,automatico,flex,Branco,2020,False,Podium Automóveis 
+TUCSON,HYUNDAI,47990.0,130000.0,automatico,flex,Preto,2013,False,Podium Automóveis 
+HB20S,HYUNDAI,54990.0,78000.0,automatico,flex,Preto,2015,False,Podium Automóveis 
+S10,CHEVROLET,96990.0,110000.0,manual,flex,Prata,2014,False,Podium Automóveis 
+SANDERO,RENAULT,50990.0,48000.0,automatico,flex,Prata,2020,False,Podium Automóveis 
+ECOSPORT,FORD,72000.0,57288.0,manual,flex,Vermelho,2019,False,Gama Seminovos 
+AIRCROSS,CITROËN,62990.0,41311.0,manual,flex,Marrom,2018,False,Grupo R1 Autos 
+VOYAGE,VOLKSWAGEN,62000.0,42504.0,manual,flex,Branco,2022,False,NOSSATERRA SEMINOVOS FIAT / JEEP
+CIVIC,HONDA,81990.0,49000.0,automatico,flex,Preto,2016,False,TOPCAR Veículos
+COROLLA,TOYOTA,124990.0,32604.0,automatico,flex,Prata,2020,False,Toyolex Seminovos - Aracaju
+RAV4,TOYOTA,216990.0,40503.0,automatico,flex,Cinza,2020,False,Toyolex Seminovos - Aracaju
+CRUZE,CHEVROLET,89990.0,52902.0,automatico,flex,Cinza,2018,False,Toyolex Seminovos - Aracaju
+COROLLA,TOYOTA,100100.0,92909.0,automatico,flex,Prata,2018,False,Toyolex Seminovos - Aracaju
+VERSA,NISSAN,54990.0,42902.0,manual,flex,Cinza,2017,False,Toyolex Seminovos - Aracaju
+CITY,HONDA,63800.0,139390.0,automatico,flex,Prata,2015,False,Isaias Automóveis - Aracaju
+HB20S,HYUNDAI,53800.0,148660.0,automatico,flex,Preto,2014,False,Isaias Automóveis - Aracaju
+ONIX,CHEVROLET,94000.0,13300.0,automatico,flex,Vermelho,2022,False,Isaias Automóveis - Aracaju
+COROLLA,TOYOTA,129000.0,36089.0,automatico,flex,Prata,2021,False,SERTANEJO VEÍCULOS
+RANGER,FORD,225000.0,10293.0,automatico,diesel,Cinza,2022,False,Gama Seminovos 
+ONIX,CHEVROLET,80900.0,44526.0,automatico,flex,Branco,2020,False,SERTANEJO VEÍCULOS
+KA,FORD,55000.0,108205.0,manual,flex,Preto,2016,False,RAFA VEÍCULOS
+VIRTUS,VOLKSWAGEN,75000.0,103000.0,manual,flex,Branco,2020,False,CASARÃO VEICULOS
+VERSA,NISSAN,58000.0,72000.0,manual,flex,Prata,2019,False,CASARÃO VEICULOS
+KA,FORD,50000.0,48031.0,manual,flex,Branco,2018,False,Gama Seminovos 
+CIVIC,HONDA,108000.0,58068.0,manual,flex,Prata,2018,False,RAFA VEÍCULOS
+HB20S,HYUNDAI,51000.0,78000.0,manual,flex,Branco,2015,False,MARVEL VEÍCULOS SEMINOVOS
+COBALT,CHEVROLET,64800.0,91640.0,automatico,flex,Azul,2018,False,Isaias Automóveis - Aracaju
+LOGAN,RENAULT,47800.0,129580.0,manual,flex,Prata,2017,False,Isaias Automóveis - Aracaju
+AIRCROSS,CITROËN,54800.0,66540.0,manual,flex,Branco,2017,False,Isaias Automóveis - Aracaju
+TORO,FIAT,145000.0,90595.0,,diesel,Azul,2021,False,JRCA Seminovos
+COROLLA,TOYOTA,128000.0,84166.0,,flex,Preto,2022,False,JRCA Seminovos
+CIVIC,HONDA,112900.0,59684.0,automatico,flex,Prata,2020,False,SHOPCAR MULTIMARCAS
+COMPASS,JEEP,151990.0,26876.0,automatico,flex,Cinza,2020,False,Gama Seminovos 
+SANDERO,RENAULT,38500.0,89129.0,manual,flex,Prata,2016,False,MGM AUTOMÓVEIS
+ONIX,CHEVROLET,82900.0,36850.0,automatico,flex,Preto,2020,False,ROGÉRIO AUTOMÓVEIS
+UNO,FIAT,44000.0,71263.0,manual,flex,Verde,2016,False,ROGÉRIO AUTOMÓVEIS
+TRACKER,CHEVROLET,126800.0,3500.0,automatico,flex,Prata,2023,False,Edson Veículos - Aracaju
+RENEGADE,JEEP,82990.0,38394.0,automatico,flex,Cinza,2021,False,Boa Terra Veículos Maceió
+RENEGADE,JEEP,106990.0,76348.0,automatico,flex,Prata,2020,False,Boa Terra Veículos Maceió
+CRETA,HYUNDAI,88900.0,75715.0,automatico,flex,Prata,2017,False,Taiyo Auto Import
+CIVIC,HONDA,119900.0,22064.0,automatico,flex,Azul,2021,False,Taiyo Auto Import
+T,VOLKSWAGEN,110990.0,14000.0,automatico,flex,Prata,2020,False,Manchete Multimarcas
+HB20,HYUNDAI,46990.0,74490.0,manual,flex,Azul,2015,False,81 AUTOS 
+TRAILBLAZER,CHEVROLET,209990.0,72000.0,automatico,diesel,Cinza,2019,False,Manchete Multimarcas
+ONIX,CHEVROLET,52990.0,58867.0,manual,flex,Vinho,2019,False,Manchete Multimarcas
+CRUZE,CHEVROLET,118990.0,58995.0,automatico,flex,Vinho,2020,False,Manchete Multimarcas
+MOBI,FIAT,51990.0,44422.0,manual,flex,Branco,2020,False,Manchete Multimarcas
+COROLLA,TOYOTA,179990.0,20015.0,automatico,flex,Branco,2022,False,Toyolex Seminovos - Aracaju
+HB20X,HYUNDAI,82990.0,48550.0,automatico,flex,Cinza,2020,False,Toyolex Seminovos - Aracaju
+T-CROSS,VOLKSWAGEN,102000.0,63000.0,automatico,flex,Prata,2020,False,Isaias Automóveis - Aracaju
+ONIX,CHEVROLET,92000.0,7000.0,manual,flex,Azul,2023,False,NOSSATERRA SEMINOVOS FIAT / JEEP
+L200,MITSUBISHI,210800.0,28910.0,automatico,diesel,Branco,2022,False,Isaias Automóveis - Aracaju
+HILUX,TOYOTA,189800.0,117630.0,automatico,diesel,Branco,2016,False,Isaias Automóveis - Aracaju
+TORO,FIAT,162800.0,41460.0,automatico,diesel,Branco,2021,False,Isaias Automóveis - Aracaju
+HB20S,HYUNDAI,53800.0,141450.0,automatico,flex,Preto,2014,False,Isaias Automóveis - Aracaju
+COMPASS,JEEP,165800.0,85750.0,automatico,diesel,Preto,2020,False,Isaias Automóveis - Aracaju
+DUSTER,RENAULT,61800.0,81310.0,manual,flex,Prata,2016,False,Isaias Automóveis - Aracaju
+TORO,FIAT,105000.0,67620.0,automatico,flex,Azul,2020,False,Supreme Car
+CRETA,HYUNDAI,83800.0,49000.0,automatico,flex,Branco,2017,False,Edson Veículos - Aracaju
+ECOSPORT,FORD,53900.0,74115.0,automatico,flex,Branco,2014,False,CAMESA AUTOMÓVEIS
+WR-V,HONDA,83800.0,17800.0,automatico,flex,Prata,2018,False,Edson Veículos - Aracaju
+RANGER,FORD,198000.0,37376.0,automatico,diesel,2020,2020,False,Mago Automóveis - Aracaju
+TORO,FIAT,160000.0,29981.0,automatico,diesel,Azul,2021,False,VIA CAR VEÍCULOS
+AMAROK,VOLKSWAGEN,174990.0,81546.0,automatico,diesel,Branco,2019,False,JRCA Seminovos
+AMAROK,VOLKSWAGEN,200000.0,81546.0,automatico,diesel,Branco,2019,False,JRCA Seminovos
+COMPASS,JEEP,164990.0,38684.0,automatico,diesel,Azul,2021,False,JRCA Seminovos
+COMPASS,JEEP,164990.0,38684.0,automatico,diesel,Azul,2021,False,JRCA Seminovos
+RENEGADE,JEEP,114990.0,38333.0,automatico,diesel,Preto,2020,False,JRCA Seminovos
+RENEGADE,JEEP,114990.0,38333.0,automatico,diesel,Preto,2020,False,JRCA Seminovos
+COMPASS,JEEP,139990.0,50234.0,automatico,diesel,Prata,2020,False,JRCA Seminovos
+COMPASS,JEEP,139990.0,50234.0,automatico,diesel,Prata,2020,False,JRCA Seminovos
+CAPTUR,RENAULT,80000.0,56737.0,,flex,Branco,2019,False,JRCA Seminovos
+CAPTUR,RENAULT,80000.0,56737.0,,flex,Branco,2019,False,JRCA Seminovos
+POLO,VOLKSWAGEN,81000.0,40000.0,manual,flex,Branco,2022,False,JLA Corretora
+SANDERO,RENAULT,43800.0,104000.0,manual,flex,Preto,2015,False,Aracaju Automóveis 
+SANDERO,RENAULT,46800.0,103000.0,manual,flex,Laranja,2016,False,Aracaju Automóveis 
+CRV,HONDA,88800.0,79000.0,automatico,gasolina,Preto,2012,False,Aracaju Automóveis 
+TUCSON,HYUNDAI,45800.0,80000.0,automatico,flex,Preto,2012,False,Aracaju Automóveis 
+WR-V,HONDA,81890.0,55704.0,automatico,flex,Prata,2018,False,Edson Veículos - Aracaju
+SPIN,CHEVROLET,62990.0,65000.0,automatico,flex,Preto,2018,False,PEDRO IVO VEICULOS
+RENEGADE,JEEP,135990.0,1750.0,automatico,flex,Azul,2022,False,Boa Terra Veículos Maceió
+COMPASS,JEEP,150000.0,62000.0,automatico,diesel,Prata,2019,False,JLA Corretora
+COMPASS,JEEP,113000.0,39000.0,automatico,flex,Preto,2018,False,Junior Veículos
+UP,VOLKSWAGEN,56000.0,77000.0,manual,flex,Cinza,2018,False,Junior Veículos
+SANDERO,RENAULT,46000.0,106000.0,manual,flex,Preto,2018,False,Junior Veículos
+AMAROK,VOLKSWAGEN,199999.0,130000.0,automatico,diesel,Preto,2019,False,Junior Veículos
+COROLLA,TOYOTA,162990.0,13219.0,automatico,flex,Preto,2022,False,Toyolex Seminovos - Aracaju
+ONIX,CHEVROLET,64990.0,52903.0,manual,flex,Preto,2019,False,Toyolex Seminovos - Aracaju
+COMPASS,JEEP,125990.0,44305.0,automatico,flex,Prata,2021,False,Autoforte Veículos Ltda
+ARGO,FIAT,69990.0,21101.0,manual,flex,Cinza,2022,False,TOPCAR Veículos
+LOGAN,RENAULT,54990.0,51230.0,manual,flex,Prata,2020,False,TOPCAR Veículos
+COROLLA,TOYOTA,85990.0,81506.0,automatico,flex,Prata,2017,False,TOPCAR Veículos
+PAJERO,MITSUBISHI,128800.0,150000.0,automatico,diesel,Branco,2015,False,Aracaju Automóveis 
+JETTA,VOLKSWAGEN,115000.0,55000.0,,flex,Preto,2019,False,Mago Automóveis - Aracaju
+COMPASS,JEEP,112000.0,60000.0,automatico,flex,2018,2018,False,Mago Automóveis - Aracaju
+TORO,FIAT,165000.0,40635.0,automatico,diesel,Branco,2021,False,Mago Automóveis - Aracaju
+RENEGADE,JEEP,83000.0,63794.0,automatico,flex,2018,2018,False,Mago Automóveis - Aracaju
+Oroch,RENAULT,95000.0,29788.0,manual,flex,Preto,2022,False,Mago Automóveis - Aracaju
+HR-V,HONDA,84000.0,52000.0,automatico,flex,Vermelho,2016,False,Mago Automóveis - Aracaju
+CRETA,HYUNDAI,92000.0,74084.0,automatico,flex,Preto,2018,False,Mago Automóveis - Aracaju
+HR-V,HONDA,116000.0,56000.0,automatico,flex,Azul,2020,False,Mago Automóveis - Aracaju
+ONIX,CHEVROLET,70000.0,43089.0,automatico,flex,2019,2019,False,KM VEÍCULOS
+YARIS,TOYOTA,83990.0,30849.0,,flex,Prata,2021,False,Toyolex Seminovos - Aracaju
+YARIS,TOYOTA,80990.0,37157.0,,flex,Prata,2021,False,Toyolex Seminovos - Aracaju
+ECLIPSE,MITSUBISHI,179990.0,4097.0,,gasolina,Prata,2022,False,JRCA Seminovos
+FUSION,FORD,75000.0,125.0,automatico,gasolina,Branco,2013,False,jose lúcio de oliveira filho
+T-CROSS,VOLKSWAGEN,103990.0,18915.0,automatico,flex,Cinza,2020,False,Toyolex Seminovos - Aracaju
+TIGUAN,VOLKSWAGEN,138990.0,56290.0,,flex,Branco,2019,False,Toyolex Seminovos - Aracaju
+ONIX,CHEVROLET,76990.0,56902.0,manual,flex,Branco,2020,False,Toyolex Seminovos - Aracaju
+COMPASS,JEEP,127990.0,66903.0,automatico,diesel,Branco,2019,False,Toyolex Seminovos - Aracaju
+RANGER,FORD,178990.0,27893.0,automatico,diesel,Prata,2021,False,JRCA Seminovos
+RANGER,FORD,178990.0,27893.0,automatico,diesel,Prata,2021,False,JRCA Seminovos
+KICKS,NISSAN,97990.0,12304.0,automatico,flex,Marrom,2021,False,JRCA Seminovos
+KICKS,NISSAN,97990.0,12304.0,automatico,flex,Marrom,2021,False,JRCA Seminovos
+VIRTUS,VOLKSWAGEN,79990.0,40082.0,,flex,Prata,2019,False,JRCA Seminovos
+VIRTUS,VOLKSWAGEN,79990.0,40082.0,,flex,Prata,2019,False,JRCA Seminovos
+COMPASS,JEEP,121990.0,57936.0,,diesel,Branco,2018,False,JRCA Seminovos
+KWID,RENAULT,51990.0,47683.0,,flex,Branco,2022,False,JRCA Seminovos
+KWID,RENAULT,51990.0,47683.0,,flex,Branco,2022,False,JRCA Seminovos
+YARIS,TOYOTA,79990.0,39498.0,,flex,Prata,2020,False,JRCA Seminovos
+HB20,HYUNDAI,69900.0,39000.0,manual,flex,Preto,2022,False,NETTO VEICULOS
+ONIX,CHEVROLET,77000.0,23649.0,automatico,flex,2020,2020,False,GUIMA VEICULOS - CHERY
+208,PEUGEOT,68000.0,20000.0,manual,flex,Branco,2022,False,NOSSATERRA SEMINOVOS FIAT / JEEP
+HILUX,TOYOTA,200000.0,38000.0,automatico,diesel,Prata,2020,False,Carlos Messias
+TORO,FIAT,178990.0,19000.0,automatico,diesel,Azul,2022,False,Auto Flex
+RENEGADE,JEEP,69000.0,47000.0,automatico,flex,Branco,2016,False,JLA Corretora
+KA,FORD,58990.0,47000.0,manual,flex,Cinza,2021,False,Podium Automóveis 
+ARRIZO,CHERY,68900.0,47659.0,automatico,flex,Preto,2019,False,GUIMA VEICULOS - CHERY
+ECOSPORT,FORD,55900.0,59000.0,automatico,flex,2015,2015,False,MGM AUTOMÓVEIS
+XE,JAGUAR,168900.0,55583.0,automatico,gasolina,Preto,2017,False,DNA Multimarcas - Aracaju
+SAVEIRO,VOLKSWAGEN,82900.0,82552.0,manual,flex,Branco,2017,False,PRIMECAR AUTOMÓVEIS
+CLASSIC,CHEVROLET,33000.0,144072.0,,flex,Branco,2014,False,GILVAN VEÍCULOS
+GOL,VOLKSWAGEN,58870.0,70000.0,manual,flex,Prata,2021,False,FOFÃO MULTIMARCAS
+GOL,VOLKSWAGEN,55900.0,46782.0,manual,flex,Prata,2021,False,PRIMECAR AUTOMÓVEIS
+CITY,HONDA,50800.0,96000.0,automatico,flex,Prata,2013,False,Edson Veículos - Aracaju
+MOBI,FIAT,56990.0,46341.0,manual,flex,Branco,2022,False,XCAR PLUS VEÍCULOS
+HB20,HYUNDAI,83990.0,37588.0,automatico,flex,Prata,2022,False,XCAR PLUS VEÍCULOS
+HR-V,HONDA,99990.0,28903.0,automatico,flex,Vermelho,2018,False,Toyolex Seminovos - Aracaju
+RENEGADE,JEEP,82990.0,31901.0,automatico,flex,Branco,2019,False,Toyolex Seminovos - Aracaju
+RENEGADE,JEEP,85990.0,47902.0,automatico,flex,Vermelho,2019,False,Toyolex Seminovos - Aracaju
+HB20,HYUNDAI,53990.0,44764.0,manual,flex,Branco,2018,False,Toyolex Seminovos - Aracaju
+VIRTUS,VOLKSWAGEN,109990.0,17903.0,automatico,flex,Branco,2022,False,Toyolex Seminovos - Aracaju
+HB20,HYUNDAI,68990.0,36901.0,manual,flex,Branco,2020,False,Toyolex Seminovos - Aracaju
+COMPASS,JEEP,108990.0,54902.0,automatico,flex,Branco,2018,False,Toyolex Seminovos - Aracaju
+HR-V,HONDA,132990.0,20911.0,automatico,gasolina,Azul,2020,False,Toyolex Seminovos - Aracaju
+FRONTIER,NISSAN,165990.0,42981.0,automatico,diesel,Cinza,2019,False,Toyolex Seminovos - Aracaju
+208,PEUGEOT,80990.0,23959.0,automatico,flex,Preto,2022,False,Toyolex Seminovos - Aracaju
+2008,PEUGEOT,75990.0,43922.0,automatico,flex,Marrom,2020,False,Toyolex Seminovos - Aracaju
+RAV4,TOYOTA,149990.0,21346.0,automatico,gasolina,Branco,2019,False,Toyolex Seminovos - Aracaju
+ECOSPORT,FORD,69990.0,49902.0,manual,flex,Prata,2019,False,Toyolex Seminovos - Aracaju
+CRUZE,CHEVROLET,84990.0,61904.0,automatico,flex,Azul,2018,False,Toyolex Seminovos - Aracaju
+CRETA,HYUNDAI,97490.0,37903.0,automatico,flex,Prata,2019,False,Toyolex Seminovos - Aracaju
+Q3,AUDI,123490.0,68902.0,,flex,Preto,2018,False,Toyolex Seminovos - Aracaju
+2008,PEUGEOT,81000.0,30000.0,automatico,flex,Preto,2021,False,JLA Corretora
+ONIX,CHEVROLET,66990.0,13462.0,manual,flex,Azul,2022,False,TOPCAR Veículos
+HB20X,HYUNDAI,72990.0,82471.0,manual,flex,Branco,2020,False,TOPCAR Veículos
+NIVUS,VOLKSWAGEN,124990.0,34112.0,automatico,flex,Cinza,2021,False,TOPCAR Veículos
+VERSA,NISSAN,63990.0,56282.0,,flex,Preto,2017,False,TOPCAR Veículos
+SANDERO,RENAULT,46990.0,56109.0,manual,flex,Branco,2015,False,TOPCAR Veículos
+VOYAGE,VOLKSWAGEN,46990.0,76050.0,manual,flex,Prata,2015,False,TOPCAR Veículos
+SPIN,CHEVROLET,48000.0,140000.0,automatico,flex,Cinza,2014,False,FOFÃO MULTIMARCAS
+DUSTER,RENAULT,74870.0,130000.0,manual,flex,Branco,2019,False,FOFÃO MULTIMARCAS
+VOYAGE,VOLKSWAGEN,62800.0,39400.0,manual,flex,Prata,2021,False,Isaias Automóveis - Aracaju
+COMPASS,JEEP,143800.0,48650.0,automatico,diesel,Branco,2018,False,Isaias Automóveis - Aracaju
+RANGER,FORD,195800.0,89380.0,automatico,diesel,Branco,2020,False,Isaias Automóveis - Aracaju
+HB20,HYUNDAI,70000.0,46124.0,automatico,flex,Preto,2020,False,Autoforte Veículos Ltda
+COMPASS,JEEP,155990.0,75563.0,,diesel,Branco,2021,False,JRCA Seminovos
+COMPASS,JEEP,155990.0,75563.0,,diesel,Branco,2021,False,JRCA Seminovos
+T-CROSS,VOLKSWAGEN,99990.0,66071.0,,flex,Branco,2020,False,JRCA Seminovos
+T-CROSS,VOLKSWAGEN,99990.0,66071.0,,flex,Branco,2020,False,JRCA Seminovos
+L200,MITSUBISHI,204990.0,104303.0,,diesel,Branco,2021,False,JRCA Seminovos
+L200,MITSUBISHI,204990.0,104303.0,,diesel,Branco,2021,False,JRCA Seminovos
+Q5,AUDI,209990.0,62844.0,,gasolina,Azul,2019,False,JRCA Seminovos
+Q5,AUDI,209990.0,62844.0,,gasolina,Azul,2019,False,JRCA Seminovos
+T-CROSS,VOLKSWAGEN,94990.0,20054.0,,flex,Branco,2020,False,JRCA Seminovos
+T-CROSS,VOLKSWAGEN,94990.0,20054.0,,flex,Branco,2020,False,JRCA Seminovos
+YARIS,TOYOTA,79990.0,39498.0,,flex,Prata,2020,False,JRCA Seminovos
+L200,MITSUBISHI,185000.0,108650.0,,diesel,Prata,2020,False,JRCA Seminovos
+L200,MITSUBISHI,185000.0,108650.0,,diesel,Prata,2020,False,JRCA Seminovos
+OUTLANDER,MITSUBISHI,219990.0,11383.0,,diesel,Branco,2021,False,JRCA Seminovos
+OUTLANDER,MITSUBISHI,219990.0,11383.0,,diesel,Branco,2021,False,JRCA Seminovos
+TAOS,VOLKSWAGEN,149990.0,29000.0,,flex,Branco,2022,False,JRCA Seminovos
+TAOS,VOLKSWAGEN,149990.0,29000.0,,flex,Branco,2022,False,JRCA Seminovos
+FRONTIER,NISSAN,184990.0,57267.0,,diesel,Azul,2021,False,JRCA Seminovos
+FRONTIER,NISSAN,184990.0,57267.0,,diesel,Azul,2021,False,JRCA Seminovos
+YARIS,TOYOTA,88990.0,61707.0,,flex,Prata,2021,False,JRCA Seminovos
+YARIS,TOYOTA,88990.0,61707.0,,flex,Prata,2021,False,JRCA Seminovos
+RENEGADE,JEEP,154990.0,11222.0,,flex,Cinza,2022,False,JRCA Seminovos
+RENEGADE,JEEP,154990.0,11222.0,,flex,Cinza,2022,False,JRCA Seminovos
+T-CROSS,VOLKSWAGEN,94990.0,59511.0,,flex,Branco,2022,False,JRCA Seminovos
+T-CROSS,VOLKSWAGEN,94990.0,59511.0,,flex,Branco,2022,False,JRCA Seminovos
+FRONTIER,NISSAN,192000.0,48946.0,,diesel,Cinza,2021,False,JRCA Seminovos
+FRONTIER,NISSAN,192000.0,48946.0,,diesel,Cinza,2021,False,JRCA Seminovos
+FRONTIER,NISSAN,199990.0,40151.0,,diesel,Branco,2022,False,JRCA Seminovos
+FRONTIER,NISSAN,199990.0,40151.0,,diesel,Branco,2022,False,JRCA Seminovos
+L200,MITSUBISHI,214990.0,79624.0,,diesel,Branco,2022,False,JRCA Seminovos
+L200,MITSUBISHI,214990.0,79624.0,,diesel,Branco,2022,False,JRCA Seminovos
+RENEGADE,JEEP,129990.0,24860.0,,diesel,Branco,2020,False,JRCA Seminovos
+RENEGADE,JEEP,129990.0,24860.0,,diesel,Branco,2020,False,JRCA Seminovos
+AMAROK,VOLKSWAGEN,184990.0,83821.0,,diesel,Branco,2020,False,JRCA Seminovos
+AMAROK,VOLKSWAGEN,200000.0,83821.0,,diesel,Branco,2020,False,JRCA Seminovos
+COMPASS,JEEP,124990.0,70821.0,,diesel,Cinza,2019,False,JRCA Seminovos
+COMPASS,JEEP,124990.0,70821.0,,diesel,Cinza,2019,False,JRCA Seminovos
+FRONTIER,NISSAN,179990.0,41542.0,,diesel,Azul,2021,False,JRCA Seminovos
+FRONTIER,NISSAN,179990.0,41542.0,,diesel,Azul,2021,False,JRCA Seminovos
+FRONTIER,NISSAN,189990.0,46857.0,,diesel,Branco,2021,False,JRCA Seminovos
+FRONTIER,NISSAN,189990.0,46857.0,,diesel,Branco,2021,False,JRCA Seminovos
+TIGUAN,VOLKSWAGEN,189990.0,59772.0,,gasolina,Cinza,2020,False,JRCA Seminovos
+TIGUAN,VOLKSWAGEN,189990.0,59772.0,,gasolina,Cinza,2020,False,JRCA Seminovos
+TIGUAN,VOLKSWAGEN,179990.0,60085.0,,gasolina,Branco,2019,False,JRCA Seminovos
+TIGUAN,VOLKSWAGEN,179990.0,60085.0,,gasolina,Branco,2019,False,JRCA Seminovos
+VERSA,NISSAN,71990.0,60535.0,,flex,Prata,2021,False,JRCA Seminovos
+VERSA,NISSAN,71990.0,60535.0,,flex,Prata,2021,False,JRCA Seminovos
+HB20S,HYUNDAI,64990.0,45474.0,manual,flex,Prata,2019,False,XCAR PLUS VEÍCULOS
+COMPASS,JEEP,149900.0,82719.0,automatico,diesel,Prata,2020,False,XCAR PLUS VEÍCULOS
+FOX,VOLKSWAGEN,67000.0,62604.0,manual,flex,Vermelho,2020,False,NETTO VEICULOS
+ONIX,CHEVROLET,79990.0,67503.0,automatico,flex,Prata,2020,False,81 AUTOS 
+KA,FORD,48999.0,77500.0,manual,flex,Branco,2019,False,Junior Veículos
+OUTLANDER,MITSUBISHI,81500.0,111499.0,automatico,gasolina,Preto,2015,False,Supreme Car
+COROLLA,TOYOTA,108990.0,59902.0,automatico,flex,Prata,2019,False,Toyolex Seminovos - Aracaju
+ONIX,CHEVROLET,43000.0,74765.0,manual,flex,Branco,2013,False,KM VEÍCULOS
+POLO,VOLKSWAGEN,75000.0,73711.0,automatico,flex,Prata,2018,False,Lino Automóveis - Aracaju
+HILUX,TOYOTA,199000.0,48022.0,manual,diesel,Branco,2018,False,VIA CAR VEÍCULOS
+T-CROSS,VOLKSWAGEN,110000.0,68521.0,automatico,flex,Preto,2020,False,NOSSATERRA SEMINOVOS FIAT / JEEP
+COMPASS,JEEP,158500.0,36835.0,automatico,flex,Cinza,2022,False,Supreme Car
+RENEGADE,JEEP,75500.0,51266.0,automatico,flex,Branco,2018,False,Supreme Car
+FRONTIER,NISSAN,199800.0,77000.0,automatico,diesel,Cinza,2020,False,Aracaju Automóveis 
+COROLLA,TOYOTA,92800.0,128800.0,automatico,flex,Prata,2017,False,Isaias Automóveis - Aracaju
+TRACKER,CHEVROLET,84990.0,38845.0,automatico,flex,Branco,2018,False,Boa Terra Veículos Maceió
+COMMANDER,JEEP,223990.0,13334.0,automatico,diesel,Prata,2022,False,Autoforte Veículos Ltda
+SPORTAGE,KIA,85000.0,89000.0,automatico,flex,Vermelho,2015,False,STENIO FREIRE CANTALICE
+2008,PEUGEOT,65000.0,62175.0,automatico,flex,Branco,2017,False,Edson Veículos - Aracaju
+KA,FORD,45990.0,68998.0,manual,flex,Branco,2016,False,81 AUTOS 
+AMAROK,VOLKSWAGEN,109800.0,95000.0,automatico,diesel,Prata,2014,False,Aracaju Automóveis 
+GOL,VOLKSWAGEN,41990.0,79239.0,manual,flex,Branco,2016,False,TOPCAR Veículos
+2008,PEUGEOT,62000.0,62000.0,automatico,flex,Marrom,2017,False,Antonio Monte de O. Junior
+CELTA,CHEVROLET,35000.0,88000.0,manual,flex,Vermelho,2014,False,SEVEN CAR MULTIMARCAS
+HB20S,HYUNDAI,68000.0,47000.0,automatico,flex,Branco,2019,False,SEVEN CAR MULTIMARCAS
+FIT,HONDA,59000.0,70000.0,automatico,flex,Cinza,2015,False,SEVEN CAR MULTIMARCAS
+LOGAN,RENAULT,62000.0,28000.0,manual,flex,Branco,2021,False,SEVEN CAR MULTIMARCAS
+YARIS,TOYOTA,69500.0,47000.0,manual,flex,Preto,2020,False,Auto Flex
+VIRTUS,VOLKSWAGEN,72990.0,72260.0,manual,flex,Prata,2020,False,XCAR PLUS VEÍCULOS
+LOGAN,RENAULT,43800.0,73000.0,automatico,flex,Cinza,2018,False,Aracaju Automóveis 
+HR-V,HONDA,82800.0,107036.0,automatico,flex,Cinza,2016,False,Edson Veículos - Aracaju
+COMPASS,JEEP,99990.0,40215.0,automatico,flex,Branco,2018,False,XCAR PLUS VEÍCULOS
+MARCH,NISSAN,46800.0,60000.0,manual,flex,Preto,2018,False,Aracaju Automóveis 
+HR-V,HONDA,82900.0,114181.0,automatico,flex,Cinza,2016,False,SHOPCAR MULTIMARCAS
+GOL,VOLKSWAGEN,51900.0,76000.0,manual,flex,Branco,2019,False,MGM AUTOMÓVEIS
+TORO,FIAT,116200.0,50848.0,automatico,flex,Prata,2021,False,Edson Veículos - Aracaju
+TORO,FIAT,130800.0,79014.0,automatico,diesel,Branco,2018,False,Edson Veículos - Aracaju
+CRUZE,CHEVROLET,51800.0,150000.0,automatico,flex,Preto,2012,False,Aracaju Automóveis 
+HB20,HYUNDAI,62800.0,45563.0,manual,flex,Branco,2021,False,Edson Veículos - Aracaju
+ONIX,CHEVROLET,90800.0,27992.0,automatico,flex,Branco,2020,False,Edson Veículos - Aracaju
+COMPASS,JEEP,112800.0,63768.0,automatico,flex,Branco,2018,False,Edson Veículos - Aracaju
+COMPASS,JEEP,112800.0,68763.0,automatico,flex,Vermelho,2018,False,Edson Veículos - Aracaju
+COMPASS,JEEP,168800.0,44839.0,automatico,diesel,Prata,2019,False,Edson Veículos - Aracaju
+HR-V,HONDA,82800.0,82333.0,automatico,flex,Vermelho,2016,False,Edson Veículos - Aracaju
+CIVIC,HONDA,123800.0,59999.0,automatico,gasolina,Branco,2017,False,Edson Veículos - Aracaju
+C4,CITROËN,93800.0,37740.0,automatico,flex,Prata,2022,False,Edson Veículos - Aracaju
+C3,CITROËN,39500.0,59999.0,manual,flex,Preto,2014,False,Edson Veículos - Aracaju
+MARCH,NISSAN,49900.0,59999.0,manual,flex,Prata,2018,False,Edson Veículos - Aracaju
+KICKS,NISSAN,95800.0,55555.0,,flex,Prata,2019,False,Edson Veículos - Aracaju
+UP,VOLKSWAGEN,61800.0,55555.0,manual,flex,Preto,2018,False,Edson Veículos - Aracaju
+VOYAGE,VOLKSWAGEN,61800.0,44444.0,manual,flex,Branco,2021,False,Edson Veículos - Aracaju
+PALIO,FIAT,45000.0,91932.0,manual,flex,Branco,2017,False,KM VEÍCULOS
+FOX,VOLKSWAGEN,59800.0,50437.0,manual,flex,Branco,2018,False,Edson Veículos - Aracaju
+PRISMA,CHEVROLET,68800.0,60000.0,automatico,flex,Branco,2019,False,Aracaju Automóveis 
+MONTANA,CHEVROLET,61800.0,72000.0,manual,flex,Branco,2020,False,Aracaju Automóveis 
+GOL,VOLKSWAGEN,54800.0,59507.0,manual,flex,Branco,2021,False,Edson Veículos - Aracaju
+FIESTA,FORD,53800.0,62605.0,,flex,Branco,2016,False,Edson Veículos - Aracaju
+ARGO,FIAT,57500.0,77888.0,,flex,Branco,2019,False,MACEDO CAR
+KA,FORD,52800.0,49999.0,manual,flex,Branco,2020,False,Edson Veículos - Aracaju
+ECOSPORT,FORD,82800.0,32791.0,automatico,flex,Vermelho,2019,False,Edson Veículos - Aracaju
+JETTA,VOLKSWAGEN,62000.0,107932.0,automatico,flex,2013,2013,False,MACEDO CAR
+SANDERO,RENAULT,40900.0,96000.0,automatico,flex,Preto,2015,False,Automania Multimarcas - Aracaju
+HR-V,HONDA,87800.0,120000.0,automatico,flex,Branco,2016,False,Aracaju Automóveis 
+HILUX,TOYOTA,149800.0,149000.0,automatico,diesel,Branco,2013,False,Aracaju Automóveis 
+CAPTUR,RENAULT,118200.0,45463.0,,flex,Cinza,2022,False,Edson Veículos - Aracaju
+RENEGADE,JEEP,105800.0,75000.0,automatico,diesel,Vermelho,2016,False,Aracaju Automóveis 
+FIESTA,FORD,42000.0,87000.0,manual,flex,Preto,2015,False,SEVEN CAR MULTIMARCAS
+DUSTER,RENAULT,62800.0,100400.0,manual,flex,Branco,2016,False,Isaias Automóveis - Aracaju
+HB20,HYUNDAI,54990.0,34902.0,manual,flex,Branco,2019,False,Toyolex Seminovos - Aracaju
+LOGAN,RENAULT,40900.0,115342.0,manual,flex,Marrom,2014,False,ATLANTIC MULTIMARCAS
+HB20,HYUNDAI,51000.0,102000.0,manual,flex,Branco,2017,False,SHOPCAR MULTIMARCAS
+GOL,VOLKSWAGEN,55000.0,50269.0,manual,flex,Branco,2021,False,MGM AUTOMÓVEIS
+208,PEUGEOT,86000.0,57302.0,automatico,flex,Azul,2021,False,DNA Multimarcas - Aracaju
+UNO,FIAT,43000.0,85000.0,manual,flex,Preto,2016,False,PIRES AUTOMÓVEIS
+PRISMA,CHEVROLET,55500.0,117821.0,automatico,flex,Branco,2015,False,Supreme Car
+COROLLA,TOYOTA,101990.0,57902.0,automatico,flex,Branco,2018,False,Toyolex Seminovos - Aracaju
+HB20S,HYUNDAI,77990.0,40903.0,automatico,flex,Prata,2020,False,Toyolex Seminovos - Aracaju
+FRONTIER,NISSAN,168990.0,47907.0,automatico,diesel,Preto,2018,False,81 AUTOS 
+HB20S,HYUNDAI,65900.0,105592.0,manual,flex,Prata,2019,False,SHOPCAR MULTIMARCAS
+PRISMA,CHEVROLET,68000.0,37734.0,manual,flex,Prata,2019,False,KM VEÍCULOS
+VERSA,NISSAN,59800.0,90000.0,,flex,Prata,2017,False,Aracaju Automóveis 
+AMAROK,VOLKSWAGEN,109800.0,95000.0,automatico,diesel,Prata,2014,False,Aracaju Automóveis 
+ECOSPORT,FORD,78800.0,80000.0,automatico,flex,Branco,2020,False,Aracaju Automóveis 
+CRV,HONDA,69800.0,140000.0,manual,gasolina,Preto,2012,False,Aracaju Automóveis 
+HR-V,HONDA,107900.0,71615.0,automatico,flex,Azul,2019,False,Taiyo Auto Import
+ARGO,FIAT,85900.0,30522.0,automatico,flex,Preto,2021,False,Taiyo Auto Import
+COMPASS,JEEP,139990.0,80816.0,automatico,diesel,Prata,2020,False,NOSSATERRA SEMINOVOS FIAT / JEEP
+VOYAGE,VOLKSWAGEN,35900.0,115000.0,manual,flex,Prata,2013,False,Automania Multimarcas - Aracaju
+ONIX,CHEVROLET,88000.0,66500.0,automatico,flex,Prata,2020,False,Joannes Sampaio
+CRUZE,CHEVROLET,55000.0,141000.0,,flex,Branco,2014,False,IDEAL MULTIMARCAS
+RANGER,FORD,155000.0,113904.0,automatico,diesel,Branco,2019,False,DNA Multimarcas - Aracaju
+CAPTUR,RENAULT,84800.0,53000.0,,flex,Branco,2019,False,Aracaju Automóveis 
+POLO,VOLKSWAGEN,74800.0,51000.0,automatico,flex,Prata,2020,False,Aracaju Automóveis 
+ONIX,CHEVROLET,76990.0,31047.0,manual,flex,Branco,2021,False,MANGABEIRAS VEÍCULOS
+HB20,HYUNDAI,69800.0,75000.0,automatico,flex,Branco,2018,False,Aracaju Automóveis 
+UP,VOLKSWAGEN,56800.0,34000.0,manual,flex,Branco,2018,False,Aracaju Automóveis 
+HR-V,HONDA,87800.0,120000.0,automatico,flex,Branco,2016,False,Aracaju Automóveis 
+KA,FORD,47800.0,70000.0,manual,flex,Branco,2018,False,Aracaju Automóveis 
+118i,BMW,87800.0,104000.0,automatico,gasolina,Branco,2015,False,Aracaju Automóveis 
+TORO,FIAT,119800.0,60000.0,automatico,flex,Branco,2017,False,Aracaju Automóveis 
+500,FIAT,34500.0,62239.0,manual,flex,Grafite,2012,False,MARVEL VEÍCULOS SEMINOVOS
+FOX,VOLKSWAGEN,38000.0,95195.0,manual,flex,Grafite,2014,False,MARVEL VEÍCULOS SEMINOVOS
+TIGGO,CHERY,101990.0,42230.0,automatico,flex,Prata,2020,False,GUIMA VEICULOS - CHERY
+A3,AUDI,109990.0,57713.0,automatico,flex,Cinza,2018,False,Gama  Seminovos - Aracaju
+328i,BMW,184800.0,99000.0,automatico,flex,Preto,2018,False,Aracaju Automóveis 
+HB20,HYUNDAI,50900.0,68000.0,manual,flex,Branco,2017,False,Automania Multimarcas - Aracaju
+C3,CITROËN,38500.0,15386.0,manual,flex,Preto,2014,False,Edson Veículos - Aracaju
+UP,VOLKSWAGEN,61800.0,56000.0,manual,flex,Preto,2018,False,Edson Veículos - Aracaju
+CRUZE,CHEVROLET,98900.0,37870.0,automatico,flex,Grafite,2019,False,DNA Multimarcas - Aracaju
+C,MERCEDES-BENZ,135000.0,50398.0,automatico,gasolina,Branco,2015,False,DNA Multimarcas - Aracaju
+500,FIAT,199900.0,159.0,,flex,Preto,2021,False,NOSSATERRA SEMINOVOS FIAT / JEEP
+MONTANA,CHEVROLET,44500.0,100000.0,manual,flex,Branco,2015,False,Lino Automóveis - Aracaju
+ONIX,CHEVROLET,53000.0,37271.0,manual,flex,Prata,2020,False,MACEDO CAR
+ONIX,CHEVROLET,51000.0,61145.0,manual,flex,Prata,2019,False,MACEDO CAR
+ETIOS,TOYOTA,59500.0,75334.0,automatico,flex,Branco,2018,False,MARVEL VEÍCULOS SEMINOVOS
+ONIX,CHEVROLET,59990.0,53000.0,manual,flex,Preto,2019,False,Podium Automóveis 
+VERSA,NISSAN,50900.0,83000.0,manual,flex,Preto,2016,False,Automania Multimarcas - Aracaju
+KA,FORD,52900.0,25000.0,manual,flex,Branco,2020,False,Automania Multimarcas - Aracaju
+208,PEUGEOT,40900.0,118000.0,automatico,flex,Preto,2015,False,Automania Multimarcas - Aracaju
+ONIX,CHEVROLET,88900.0,11000.0,manual,flex,Branco,2023,False,Automania Multimarcas - Aracaju
+FIT,HONDA,65990.0,100364.0,automatico,flex,Prata,2015,False,TOPCAR Veículos
+ONIX,CHEVROLET,78900.0,46208.0,manual,flex,Branco,2020,False,PRIMECAR AUTOMÓVEIS
+CRUZE,CHEVROLET,142000.0,6618.0,automatico,flex,Prata,2023,False,PRIMECAR AUTOMÓVEIS
+ONIX,CHEVROLET,54990.0,71000.0,manual,flex,Cinza,2017,False,TOPCAR Veículos
+ONIX,CHEVROLET,54990.0,71000.0,manual,flex,Cinza,2017,False,TOPCAR Veículos
+FIT,HONDA,54900.0,114000.0,automatico,flex,Branco,2014,False,CAMESA AUTOMÓVEIS
+C4,CITROËN,112990.0,27327.0,automatico,flex,Prata,2022,False,FABÃO VEÍCULOS
+320i,BMW,109800.0,105000.0,automatico,gasolina,Preto,2014,False,Aracaju Automóveis 
+CRUZE,CHEVROLET,57800.0,146450.0,automatico,flex,Branco,2013,False,Isaias Automóveis - Aracaju
+HB20S,HYUNDAI,91800.0,22100.0,automatico,flex,Preto,2022,False,Isaias Automóveis - Aracaju
+COROLLA,TOYOTA,79990.0,86900.0,automatico,flex,Prata,2015,False,Auto Flex
+A3,AUDI,112990.0,78554.0,,flex,Branco,2017,False,FABÃO VEÍCULOS
+VELOSTER,HYUNDAI,66800.0,98000.0,automatico,gasolina,Prata,2013,False,Aracaju Automóveis 
+RANGER,FORD,135000.0,144132.0,automatico,diesel,Branco,2017,False,IDEAL MULTIMARCAS
+COMPASS,JEEP,169800.0,34000.0,automatico,diesel,Prata,2021,False,Aracaju Automóveis 
+ROVER,LAND,125900.0,99673.0,automatico,flex,Branco,2015,False,IMPACTO VEÍCULOS
+GOL,VOLKSWAGEN,51000.0,71000.0,manual,flex,Branco,2022,False,MACEDO CAR
+FOX,VOLKSWAGEN,74800.0,25380.0,manual,flex,Vermelho,2021,False,Isaias Automóveis - Aracaju
+STRADA,FIAT,54800.0,120340.0,manual,flex,Vermelho,2015,False,Isaias Automóveis - Aracaju
+IX35,HYUNDAI,96800.0,80510.0,automatico,flex,Prata,2018,False,Isaias Automóveis - Aracaju
+DUSTER,RENAULT,45500.0,120000.0,manual,flex,Prata,2013,False,Aracaju Automóveis 
+KWID,RENAULT,65000.0,27000.0,manual,flex,Branco,2023,False,Junior Veículos
+COMPASS,JEEP,113000.0,39871.0,automatico,flex,Preto,2018,False,Junior Veículos
+CRETA,HYUNDAI,86000.0,56193.0,automatico,flex,Preto,2019,False,Auto Flex
+VOYAGE,VOLKSWAGEN,35800.0,120000.0,manual,flex,Branco,2012,False,Aracaju Automóveis 
+BRAVO,FIAT,54800.0,104000.0,manual,flex,Vermelho,2014,False,Aracaju Automóveis 
+COROLLA,TOYOTA,101900.0,76000.0,automatico,flex,Branco,2018,False,Automania Multimarcas - Aracaju
+ONIX,CHEVROLET,64990.0,54888.0,manual,flex,Branco,2021,False,TOPCAR Veículos
+GOL,VOLKSWAGEN,48500.0,88377.0,manual,flex,Prata,2018,False,ROGÉRIO AUTOMÓVEIS
+MOBI,FIAT,48500.0,42806.0,manual,flex,Branco,2020,False,MACEDO CAR
+SANDERO,RENAULT,95000.0,761.0,manual,flex,Prata,2022,False,Vip Automóveis - Aracaju
+CRONOS,FIAT,73900.0,62927.0,manual,flex,Branco,2021,False,SERTANEJO VEÍCULOS
+COROLLA,TOYOTA,122000.0,18000.0,automatico,flex,Preto,2021,False,Gabriella Rebouças
+DUSTER,RENAULT,47900.0,135000.0,manual,flex,Preto,2013,False,ATLANTIC MULTIMARCAS
+MOBI,FIAT,57990.0,38094.0,manual,flex,Preto,2021,False,81 AUTOS 
+VOYAGE,VOLKSWAGEN,69990.0,38575.0,automatico,flex,Branco,2020,False,TOPCAR Veículos
+UNO,FIAT,51000.0,502.0,,flex,Preto,2021,False,Foco Veículos
+GOL,VOLKSWAGEN,61990.0,19512.0,manual,flex,Branco,2022,False,Gama  Seminovos - Aracaju
+PRISMA,CHEVROLET,41000.0,110238.0,,flex,Branco,2013,False,SHOPCAR MULTIMARCAS
+TIGGO,CHERY,96000.0,14605.0,automatico,flex,Cinza,2022,False,IDEAL MULTIMARCAS
+STRADA,FIAT,89500.0,11833.0,manual,flex,Branco,2022,False,IDEAL MULTIMARCAS
+C4,CITROËN,98900.0,33596.0,,flex,Preto,2021,False,DNA Multimarcas - Aracaju
+STRADA,FIAT,115000.0,39000.0,manual,flex,Branco,2021,False,Mago Automóveis - Aracaju
+CRUZE,CHEVROLET,96000.0,68000.0,automatico,flex,Branco,2019,False,Mago Automóveis - Aracaju
+SPIN,CHEVROLET,76000.0,63783.0,automatico,flex,Preto,2020,False,VIA CAR VEÍCULOS
+ONIX,CHEVROLET,72990.0,31761.0,manual,flex,Preto,2021,False,MANGABEIRAS VEÍCULOS
+PAJERO,MITSUBISHI,175000.0,151700.0,automatico,diesel,Cinza,2016,False,Isaias Automóveis - Aracaju
+ECOSPORT,FORD,61800.0,91100.0,,flex,Branco,2016,False,Isaias Automóveis - Aracaju
+ONIX,CHEVROLET,63990.0,70902.0,automatico,flex,Cinza,2017,False,Toyolex Seminovos - Aracaju
+FOX,VOLKSWAGEN,56990.0,49000.0,automatico,flex,Prata,2017,False,Podium Automóveis 
+JETTA,VOLKSWAGEN,78990.0,86000.0,,gasolina,Preto,2014,False,Podium Automóveis 
+KICKS,NISSAN,84990.0,54151.0,,flex,Cinza,2018,False,Podium Automóveis 
+ONIX,CHEVROLET,72000.0,65000.0,automatico,flex,Prata,2018,False,ACESSO VEÍCULOS
+COMPASS,JEEP,139990.0,57000.0,automatico,diesel,Branco,2020,False,Auto Flex
+PRISMA,CHEVROLET,51000.0,62116.0,manual,flex,Prata,2018,False,Foco Veículos
+HB20S,HYUNDAI,65990.0,82000.0,automatico,flex,Branco,2019,False,Gama Seminovos 
+WR-V,HONDA,79990.0,40903.0,automatico,flex,Branco,2018,False,Toyolex Seminovos - Aracaju
+ECOSPORT,FORD,78000.0,15640.0,automatico,flex,Cinza,2020,False,Johnciel Wayne de Araujo Silva
+ONIX,CHEVROLET,48999.0,51006.0,manual,flex,Preto,2017,False,Boa Terra Veículos Maceió
+CRETA,HYUNDAI,142990.0,13376.0,automatico,flex,Marrom,2022,False,TOPCAR Veículos
+SPIN,CHEVROLET,56000.0,135000.0,automatico,flex,Prata,2014,False,Junior Veículos
+COROLLA,TOYOTA,85990.0,119679.0,automatico,flex,Branco,2015,False,TOPCAR Veículos
+2008,PEUGEOT,62990.0,57189.0,automatico,flex,Branco,2017,False,TOPCAR Veículos
+CIVIC,HONDA,125990.0,41321.0,automatico,flex,Branco,2020,False,81 AUTOS 
+208,PEUGEOT,39500.0,117556.0,manual,flex,Branco,2015,False,DNA Multimarcas - Aracaju
+AIRCROSS,CITROËN,46000.0,132219.0,manual,flex,Cinza,2018,False,Foco Veículos
+SPORTAGE,KIA,113900.0,47319.0,,flex,Branco,2019,False,CAMESA AUTOMÓVEIS
+FIT,HONDA,47000.0,137299.0,manual,flex,Prata,2014,False,Supreme Car
+TRACKER,CHEVROLET,70000.0,105206.0,automatico,flex,Prata,2015,False,SHOPCAR MULTIMARCAS
+SPORTAGE,KIA,131000.0,56000.0,automatico,flex,Branco,2018,False,IDEAL MULTIMARCAS
+RENEGADE,JEEP,98900.0,96740.0,automatico,diesel,Preto,2016,False,DNA Multimarcas - Aracaju
+MOBI,FIAT,45990.0,53408.0,manual,flex,Vermelho,2017,False,FABÃO VEÍCULOS
+KWID,RENAULT,47000.0,58150.0,manual,flex,Branco,2020,False,MURYLLO VEÍCULOS
+FIESTA,FORD,32000.0,92280.0,manual,flex,Preto,2013,False,MURYLLO VEÍCULOS
+CRUZE,CHEVROLET,87990.0,56133.0,automatico,flex,Cinza,2018,False,Toyolex Seminovos - Aracaju
+CRETA,HYUNDAI,83990.0,54901.0,automatico,flex,Prata,2017,False,Toyolex Seminovos - Aracaju
+HB20S,HYUNDAI,71490.0,37939.0,automatico,flex,Branco,2018,False,Toyolex Seminovos - Aracaju
+NIVUS,VOLKSWAGEN,115990.0,47901.0,automatico,flex,Branco,2021,False,Toyolex Seminovos - Aracaju
+SANDERO,RENAULT,40000.0,124665.0,manual,flex,Verde,2014,False,EXCLUSIVE MULTIMARCAS
+COROLLA,TOYOTA,127990.0,59539.0,automatico,flex,Prata,2020,False,Autoforte Veículos Ltda
+COROLLA,TOYOTA,114990.0,22524.0,automatico,flex,Cinza,2019,False,81 AUTOS 
+HB20S,HYUNDAI,57990.0,54893.0,manual,flex,Branco,2017,False,81 AUTOS 
+CLASSIC,CHEVROLET,34990.0,82657.0,manual,flex,Cinza,2015,False,FABÃO VEÍCULOS
+TIGGO,CHERY,125990.0,41000.0,automatico,flex,Branco,2021,False,GUIMA VEICULOS - CHERY
+ONIX,CHEVROLET,81000.0,11640.0,manual,flex,Prata,2021,False,SERTANEJO VEÍCULOS
+VIRTUS,VOLKSWAGEN,67000.0,104.0,manual,flex,Bege,2020,False,Normando Candido
+KA,FORD,47990.0,65543.0,manual,flex,Branco,2018,False,TOPCAR Veículos
+VOYAGE,VOLKSWAGEN,57990.0,68284.0,manual,flex,Prata,2018,False,TOPCAR Veículos
+ONIX,CHEVROLET,58990.0,63150.0,manual,flex,Branco,2019,False,TOPCAR Veículos
+HB20,HYUNDAI,60990.0,23155.0,manual,flex,Preto,2020,False,TOPCAR Veículos
+KA,FORD,58990.0,58000.0,manual,flex,Branco,2019,False,TOPCAR Veículos
+KICKS,NISSAN,79990.0,61000.0,manual,flex,Cinza,2018,False,TOPCAR Veículos
+CRUZE,CHEVROLET,69990.0,91000.0,automatico,flex,Prata,2016,False,TOPCAR Veículos
+PRISMA,CHEVROLET,67990.0,58000.0,manual,flex,Branco,2018,False,TOPCAR Veículos
+SANDERO,RENAULT,70990.0,34000.0,,flex,Cinza,2020,False,TOPCAR Veículos
+YARIS,TOYOTA,82990.0,41967.0,,flex,Prata,2020,False,Toyolex Seminovos - Aracaju
+FOX,VOLKSWAGEN,61990.0,44901.0,manual,flex,Branco,2020,False,Toyolex Seminovos - Aracaju
+MARCH,NISSAN,49000.0,47300.0,manual,flex,Branco,2019,False,SEVEN CAR MULTIMARCAS
+CAPTUR,RENAULT,79990.0,55901.0,,flex,Branco,2019,False,Toyolex Seminovos - Aracaju
+ECOSPORT,FORD,51000.0,112000.0,manual,flex,Branco,2013,False,SEVEN CAR MULTIMARCAS
+ECOSPORT,FORD,61800.0,103900.0,manual,flex,Prata,2015,False,Isaias Automóveis - Aracaju
+ARGO,FIAT,68000.0,36000.0,manual,flex,Prata,2022,False,MGM AUTOMÓVEIS
+GOL,VOLKSWAGEN,58000.0,31197.0,manual,flex,Prata,2021,False,ROGÉRIO AUTOMÓVEIS
+ECOSPORT,FORD,56500.0,54739.0,manual,flex,Preto,2014,False,IDEAL MULTIMARCAS
+VOYAGE,VOLKSWAGEN,35000.0,100000.0,manual,flex,Vermelho,2013,False,JLA Corretora
+IX35,HYUNDAI,82000.0,71610.0,automatico,flex,Preto,2015,False,Isaias Automóveis - Aracaju
+HB20X,HYUNDAI,56500.0,61400.0,automatico,flex,Branco,2014,False,Isaias Automóveis - Aracaju
+RANGER,FORD,140000.0,97549.0,manual,diesel,Prata,2019,False,GUIMA VEICULOS - CHERY
+SANDERO,RENAULT,51900.0,83081.0,manual,flex,Prata,2020,False,CAMESA AUTOMÓVEIS
+FIESTA,FORD,46990.0,138245.0,,flex,Prata,2015,False,FABÃO VEÍCULOS
+GLA,MERCEDES-BENZ,134990.0,30902.0,automatico,flex,Vermelho,2017,False,Toyolex Seminovos - Aracaju
+HB20S,HYUNDAI,58900.0,76000.0,manual,flex,Branco,2016,False,MGM AUTOMÓVEIS
+KA,FORD,52000.0,85500.0,manual,flex,Branco,2020,False,IDEAL MULTIMARCAS
+RAV4,TOYOTA,220990.0,23476.0,automatico,flex,Azul,2019,False,Toyolex Seminovos - Aracaju
+SENTRA,NISSAN,76990.0,60901.0,automatico,flex,Branco,2019,False,Toyolex Seminovos - Aracaju
+HR-V,HONDA,92990.0,63903.0,automatico,flex,Vermelho,2018,False,Toyolex Seminovos - Aracaju
+COROLLA,TOYOTA,140000.0,35931.0,automatico,flex,Prata,2021,False,Autoforte Veículos Ltda
+HB20S,HYUNDAI,50000.0,1.0,manual,flex,Branco,2015,False,MCAR MULTIMARCAS
+YARIS,TOYOTA,84900.0,34722.0,automatico,flex,Prata,2019,False,Batalha Veículos - Arapiraca
+OUTLANDER,MITSUBISHI,69900.0,139370.0,automatico,gasolina,Branco,2015,False,Batalha Veículos - Arapiraca
+HB20,HYUNDAI,59990.0,20902.0,manual,flex,Prata,2019,False,Toyolex Seminovos - Aracaju
+ARGO,FIAT,61900.0,42276.0,,flex,Prata,2021,False,IMPACTO VEÍCULOS
+ECOSPORT,FORD,67000.0,40000.0,,flex,Prata,2017,False,SERTANEJO VEÍCULOS
+ARGO,FIAT,64870.0,34000.0,manual,flex,Branco,2022,False,FOFÃO MULTIMARCAS
+MOBI,FIAT,50000.0,53584.0,manual,flex,Branco,2020,False,KM VEÍCULOS
+CAPTUR,RENAULT,96000.0,78000.0,,flex,Preto,2020,False,Isaias Automóveis - Aracaju
+CRUZE,CHEVROLET,73800.0,145600.0,automatico,flex,Branco,2016,False,Isaias Automóveis - Aracaju
+FRONTIER,NISSAN,220000.0,69540.0,automatico,diesel,Cinza,2020,False,VIA CAR VEÍCULOS
+KA,FORD,42000.0,81000.0,manual,flex,Preto,2015,False,FASA AUTOMÓVEIS
+SIENA,FIAT,37000.0,140000.0,manual,flex,Prata,2013,False,CITY CAR MULTIMARCAS
+NIVUS,VOLKSWAGEN,125000.0,34040.0,automatico,flex,Cinza,2021,False,FÁBIO TELES VEÍCULOS
+COMPASS,JEEP,112990.0,70000.0,automatico,flex,Branco,2018,False,XCAR PLUS VEÍCULOS
+I30,HYUNDAI,39000.0,145000.0,automatico,flex,Preto,2012,False,LUCAR MULTIMARCAS
+FIESTA,FORD,38000.0,106000.0,manual,flex,Vermelho,2014,False,LUCAR MULTIMARCAS
+VIRTUS,VOLKSWAGEN,82000.0,80000.0,automatico,flex,Prata,2018,False,Mago Automóveis - Aracaju
+RANGER,FORD,179900.0,55405.0,automatico,diesel,Branco,2020,False,GUIMA VEICULOS - CHERY
+KA,FORD,44000.0,85000.0,manual,flex,Vermelho,2019,False,Marcelo Nunes
+ARRIZO,CHERY,104900.0,32887.0,automatico,flex,Cinza,2021,False,Batalha Veículos - Arapiraca
+KWID,RENAULT,55500.0,34000.0,manual,flex,Branco,2022,False,ACESSO VEÍCULOS
+POLO,VOLKSWAGEN,87900.0,48415.0,automatico,flex,Prata,2019,False,Batalha Veículos - Arapiraca
+POLO,VOLKSWAGEN,87900.0,66291.0,automatico,flex,2019,2019,False,Batalha Veículos - Arapiraca
+FOX,VOLKSWAGEN,53900.0,49603.0,manual,flex,2016,2016,False,Batalha Veículos - Arapiraca
+SAVEIRO,VOLKSWAGEN,54900.0,65320.0,manual,flex,Branco,2017,False,Batalha Veículos - Arapiraca
+ONIX,CHEVROLET,63900.0,62549.0,automatico,flex,Branco,2017,False,Batalha Veículos - Arapiraca
+Oroch,RENAULT,79900.0,153844.0,manual,flex,Branco,2019,False,Batalha Veículos - Arapiraca
+Oroch,RENAULT,106900.0,19287.0,manual,flex,Vermelho,2022,False,Batalha Veículos - Arapiraca
+TORO,FIAT,119900.0,83838.0,automatico,diesel,Vinho,2019,False,Batalha Veículos - Arapiraca
+AMAROK,VOLKSWAGEN,139900.0,51515.0,manual,diesel,Prata,2019,False,Batalha Veículos - Arapiraca
+S10,CHEVROLET,178900.0,78682.0,automatico,diesel,2019,2019,False,Batalha Veículos - Arapiraca
+FRONTIER,NISSAN,167900.0,128958.0,automatico,diesel,Prata,2018,False,Batalha Veículos - Arapiraca
+HILUX,TOYOTA,155900.0,125770.0,automatico,diesel,Prata,2013,False,Batalha Veículos - Arapiraca
+S10,CHEVROLET,177900.0,91738.0,automatico,diesel,Vermelho,2017,False,Batalha Veículos - Arapiraca
+CELER,CHERY,38000.0,70000.0,manual,flex,Branco,2018,False,Lino Automóveis - Aracaju
+L200,MITSUBISHI,139900.0,88499.0,manual,diesel,Preto,2017,False,Batalha Veículos - Arapiraca
+KA,FORD,54000.0,44000.0,manual,flex,Branco,2020,False,MACEDO CAR
+FRONTIER,NISSAN,164900.0,91725.0,automatico,diesel,Cinza,2019,False,Batalha Veículos - Arapiraca
+HILUX,TOYOTA,199900.0,79262.0,automatico,diesel,Cinza,2018,False,Batalha Veículos - Arapiraca
+RANGER,FORD,154900.0,113645.0,automatico,diesel,Cinza,2019,False,Batalha Veículos - Arapiraca
+UP,VOLKSWAGEN,45000.0,78132.0,automatico,flex,Branco,2016,False,Supreme Car
+KICKS,NISSAN,108000.0,23829.0,automatico,flex,Preto,2022,False,CITY CAR MULTIMARCAS
+STRADA,FIAT,96500.0,42000.0,manual,flex,Branco,2021,False,Lino Automóveis - Aracaju
+CRONOS,FIAT,76000.0,27000.0,automatico,flex,Vermelho,2020,False,Auto Flex
+AMAROK,VOLKSWAGEN,204990.0,50902.0,automatico,diesel,Prata,2020,False,Toyolex Seminovos - Aracaju
+FIESTA,FORD,44990.0,90004.0,automatico,flex,Branco,2014,False,FABÃO VEÍCULOS
+HILUX,TOYOTA,149000.0,150000.0,manual,diesel,Prata,2013,False,EXCLUSIVE MULTIMARCAS
+AMAROK,VOLKSWAGEN,148990.0,106926.0,automatico,diesel,Branco,2016,False,Manchete Multimarcas
+CIVIC,HONDA,154900.0,6000.0,automatico,flex,Prata,2021,False,Andre Santana
+AMAROK,VOLKSWAGEN,148990.0,106926.0,automatico,diesel,Branco,2016,False,Manchete Multimarcas
+TIGUAN,VOLKSWAGEN,145000.0,95429.0,,flex,Preto,2019,False,Isaias Automóveis - Aracaju
+SENTRA,NISSAN,84990.0,48031.0,automatico,flex,Cinza,2019,False,Manchete Multimarcas
+FRONTIER,NISSAN,119990.0,144890.0,automatico,diesel,Prata,2013,False,Manchete Multimarcas
+OUTLANDER,MITSUBISHI,165990.0,35389.0,automatico,flex,Branco,2019,False,Manchete Multimarcas
+GLA,MERCEDES-BENZ,139990.0,102560.0,automatico,gasolina,Branco,2015,False,Manchete Multimarcas
+ROVER,LAND,139990.0,112047.0,automatico,diesel,Branco,2013,False,Manchete Multimarcas
+SPORTAGE,KIA,109990.0,43781.0,automatico,flex,Prata,2018,False,Manchete Multimarcas
+X2,BMW,210900.0,30755.0,automatico,flex,Grafite,2020,False,SHOPCAR MULTIMARCAS
+TUCSON,HYUNDAI,134990.0,34547.0,,flex,Preto,2019,False,Manchete Multimarcas
+CERATO,KIA,59900.0,137623.0,automatico,gasolina,Vermelho,2012,False,ATLANTIC MULTIMARCAS
+KICKS,NISSAN,120000.0,23500.0,,flex,Azul,2022,False,MAURO RENATO AMORIM DE BARROS
+POLO,VOLKSWAGEN,81000.0,55570.0,automatico,flex,Prata,2020,False,SELECT MOTORS
+ONIX,CHEVROLET,82990.0,34663.0,manual,flex,Preto,2021,False,Manchete Multimarcas
+ONIX,CHEVROLET,52990.0,55000.0,manual,flex,Branco,2018,False,SEVEN CAR MULTIMARCAS
+KA,FORD,52990.0,75554.0,manual,flex,Cinza,2020,False,Manchete Multimarcas
+ECOSPORT,FORD,87990.0,51230.0,manual,flex,Prata,2021,False,Manchete Multimarcas
+TORO,FIAT,159990.0,25430.0,automatico,diesel,Prata,2021,False,Manchete Multimarcas
+TIGGO,CHERY,117990.0,30709.0,automatico,flex,Prata,2021,False,Manchete Multimarcas
+PALIO,FIAT,38900.0,78570.0,manual,flex,Branco,2015,False,Automania Multimarcas - Aracaju
+CELTA,CHEVROLET,32000.0,145500.0,manual,flex,Prata,2014,False,CITY CAR MULTIMARCAS
+COROLLA,TOYOTA,140000.0,45745.0,automatico,flex,Preto,2021,False,Autoforte Veículos Ltda
+GOL,VOLKSWAGEN,60000.0,12000.0,manual,flex,Cinza,2021,False,GILVAN VEÍCULOS
+GOL,VOLKSWAGEN,51000.0,71257.0,manual,flex,Branco,2019,False,GILVAN VEÍCULOS
+COROLLA,TOYOTA,164990.0,21349.0,automatico,flex,Cinza,2022,False,Toyolex Seminovos - Aracaju
+HILUX,TOYOTA,199500.0,107500.0,automatico,diesel,Prata,2017,False,MATEUS LOPES DA SILVA
+COMPASS,JEEP,134870.0,40202.0,automatico,diesel,Branco,2018,False,FOFÃO MULTIMARCAS
+FIESTA,FORD,31000.0,104000.0,manual,flex,Branco,2014,False,TOM AUTOS
+DUSTER,RENAULT,65000.0,57000.0,manual,flex,Branco,2017,False,CITY CAR MULTIMARCAS
+SANDERO,RENAULT,39000.0,90000.0,automatico,flex,Preto,2014,False,CITY CAR MULTIMARCAS
+ONIX,CHEVROLET,49000.0,59000.0,manual,flex,Branco,2017,False,FASA AUTOMÓVEIS
+HR-V,HONDA,78000.0,53000.0,manual,flex,Cinza,2016,False,MCAR MULTIMARCAS
+JETTA,VOLKSWAGEN,58000.0,132000.0,automatico,flex,Branco,2013,False,LUCAR MULTIMARCAS
+PALIO,FIAT,38000.0,92441.0,manual,flex,Vermelho,2013,False,LUCAR MULTIMARCAS
+CITY,HONDA,62990.0,92000.0,automatico,flex,Cinza,2015,False,Podium Automóveis 
+ONIX,CHEVROLET,94000.0,20259.0,manual,flex,Vermelho,2023,False,Isaias Automóveis - Aracaju
+PRISMA,CHEVROLET,68800.0,108700.0,automatico,flex,Azul,2018,False,Isaias Automóveis - Aracaju
+COROLLA,TOYOTA,149990.0,27075.0,automatico,flex,Cinza,2022,False,Autoforte Veículos Ltda
+GOLF,VOLKSWAGEN,78990.0,63015.0,,flex,Azul,2016,False,FABÃO VEÍCULOS
+PUNTO,FIAT,49000.0,59000.0,manual,flex,Branco,2017,False,KODAUTOS SEMINOVOS
+HB20S,HYUNDAI,59800.0,72000.0,manual,flex,Branco,2019,False,CITY CAR MULTIMARCAS
+ONIX,CHEVROLET,53000.0,52000.0,manual,flex,Prata,2019,False,CITY CAR MULTIMARCAS
+TIIDA,NISSAN,35000.0,73000.0,manual,flex,Prata,2012,False,EXCLUSIVE MULTIMARCAS
+VOYAGE,VOLKSWAGEN,46000.0,1.0,manual,flex,Prata,2015,False,MCAR MULTIMARCAS
+2008,PEUGEOT,88900.0,24781.0,automatico,flex,Prata,2021,False,Gama Seminovos 
+TIGGO,CHERY,73990.0,44972.0,automatico,flex,Azul,2019,False,GUIMA VEICULOS - CHERY
+A3,AUDI,95000.0,70000.0,,flex,Vermelho,2016,False,KODAUTOS SEMINOVOS
+SANDERO,RENAULT,55900.0,45327.0,manual,flex,Branco,2021,False,HORIZONTE VEÍCULOS
+HB20X,HYUNDAI,89500.0,24000.0,automatico,flex,Cinza,2022,False,Lino Automóveis - Aracaju
+HILUX,TOYOTA,175000.0,68000.0,automatico,gasolina,Preto,2016,False,Taciano Vital
+KWID,RENAULT,49800.0,46200.0,manual,flex,Branco,2020,False,Isaias Automóveis - Aracaju
+SANDERO,RENAULT,39000.0,101170.0,manual,flex,2015,2015,False,FÁBIO TELES VEÍCULOS
+CLIO,RENAULT,26900.0,120000.0,manual,flex,Bege,2014,False,H1 VEÍCULOS
+MARCH,NISSAN,33900.0,109200.0,manual,flex,Preto,2014,False,H1 VEÍCULOS
+ONIX,CHEVROLET,47900.0,104462.0,manual,flex,Vermelho,2018,False,H1 VEÍCULOS
+PALIO,FIAT,37900.0,110000.0,manual,flex,Branco,2015,False,H1 VEÍCULOS
+Q3,AUDI,89900.0,81000.0,,gasolina,Preto,2015,False,H1 VEÍCULOS
+ECOSPORT,FORD,47900.0,111000.0,manual,flex,Preto,2014,False,H1 VEÍCULOS
+SPIN,CHEVROLET,42900.0,80381.0,automatico,flex,Branco,2013,False,H1 VEÍCULOS
+STRADA,FIAT,59900.0,73067.0,manual,flex,Branco,2018,False,H1 VEÍCULOS
+TORO,FIAT,78000.0,39000.0,automatico,flex,Vermelho,2017,False,Imperio Veiculo
+GOL,VOLKSWAGEN,39000.0,73200.0,manual,flex,Branco,2015,False,Imperio Veiculo
+COROLLA,TOYOTA,98000.0,65000.0,automatico,flex,2018,2018,False,Diego de Souza Aguiar da Costa 
+JOY,CHEVROLET,55000.0,52460.0,manual,flex,Prata,2020,False,MURYLLO VEÍCULOS
+NEW,FORD,45000.0,92093.0,,flex,Preto,2014,False,MURYLLO VEÍCULOS
+VOYAGE,VOLKSWAGEN,62000.0,53470.0,manual,flex,Prata,2021,False,MURYLLO VEÍCULOS
+KWID,RENAULT,52000.0,74270.0,manual,flex,Laranja,2020,False,MURYLLO VEÍCULOS
+STRADA,FIAT,95000.0,19004.0,manual,flex,Branco,2022,False,Scuderia Veículos e Pick-ups
+TRACKER,CHEVROLET,134990.0,32275.0,automatico,flex,Vermelho,2022,False,Boa Terra Veículos Maceió
+CIVIC,HONDA,125000.0,50000.0,automatico,flex,Branco,2020,False,Junior Veículos
+UNO,FIAT,55000.0,55740.0,,flex,Branco,2021,False,MURYLLO VEÍCULOS
+VOYAGE,VOLKSWAGEN,56990.0,53000.0,manual,flex,Prata,2022,False,SÃO JOSÉ VEÍCULOS
+RANGER,FORD,195000.0,33102.0,automatico,diesel,Preto,2021,False,Vip Automóveis - Aracaju
+KA,FORD,52000.0,57000.0,manual,flex,Vermelho,2019,False,JLA Corretora
+ONIX,CHEVROLET,56500.0,70549.0,manual,flex,Prata,2018,False,Foco Veículos
+TIGGO,CHERY,69990.0,80650.0,automatico,flex,Prata,2020,False,GUIMA VEICULOS - CHERY
+KA,FORD,55000.0,50000.0,manual,flex,Prata,2020,False,JLA Corretora
+CIVIC,HONDA,125000.0,50000.0,automatico,flex,Branco,2020,False,Junior Veículos
+RENEGADE,JEEP,112990.0,60901.0,automatico,diesel,Branco,2019,False,Toyolex Seminovos - Aracaju
+VERSA,NISSAN,59990.0,41000.0,manual,flex,Cinza,2019,False,AD AUTOMÓVEIS
+TRAILBLAZER,CHEVROLET,189000.0,122000.0,automatico,diesel,Branco,2018,False,IDEAL MULTIMARCAS
+ONIX,CHEVROLET,54000.0,74007.0,manual,flex,Branco,2020,False,MARVEL VEÍCULOS SEMINOVOS
+RANGER,FORD,175000.0,85467.0,automatico,diesel,Prata,2020,False,ROGÉRIO AUTOMÓVEIS
+KWID,RENAULT,47000.0,81000.0,manual,flex,2019,2019,False,PIRES AUTOMÓVEIS
+S10,CHEVROLET,177000.0,134949.0,automatico,diesel,Prata,2020,False,Isaias Automóveis - Aracaju
+ONIX,CHEVROLET,67000.0,29000.0,manual,flex,Vermelho,2019,False,PRIMO MULTIMARCAS
+STRADA,FIAT,79990.0,54258.0,manual,flex,Branco,2021,False,XCAR PLUS VEÍCULOS
+GOL,VOLKSWAGEN,50000.0,80000.0,manual,flex,Branco,2019,False,FASA AUTOMÓVEIS
+COMPASS,JEEP,172689.0,52903.0,automatico,diesel,Cinza,2021,False,Toyolex Seminovos - Aracaju
+TIGGO,CHERY,171990.0,68441.0,automatico,gasolina,Branco,2021,False,GUIMA VEICULOS - CHERY
+SAVEIRO,VOLKSWAGEN,62000.0,92214.0,manual,flex,Branco,2019,False,Junior Veículos
+AMAROK,VOLKSWAGEN,222990.0,57847.0,automatico,diesel,Grafite,2019,False,Gama  Seminovos - Aracaju
+DUSTER,RENAULT,61000.0,86549.0,manual,flex,Preto,2016,False,FASA AUTOMÓVEIS
+TRAILBLAZER,CHEVROLET,179990.0,127228.0,automatico,diesel,Branco,2017,False,GUIMA VEICULOS - CHERY
+COROLLA,TOYOTA,95900.0,67300.0,automatico,flex,Branco,2017,False,IMPACTO VEÍCULOS
+YARIS,TOYOTA,85990.0,34627.0,,flex,Branco,2021,False,Importadora Auto Peças
+COMPASS,JEEP,140990.0,54903.0,automatico,diesel,Branco,2020,False,Toyolex Seminovos - Aracaju
+YARIS,TOYOTA,85490.0,36770.0,,flex,Prata,2020,False,Importadora Auto Peças
+FIT,HONDA,79900.0,61123.0,automatico,flex,Branco,2019,False,Importadora Auto Peças
+COMPASS,JEEP,135000.0,125717.0,automatico,diesel,Branco,2017,False,Isaias Automóveis - Aracaju
+MOBI,FIAT,48800.0,41000.0,manual,flex,Branco,2020,False,CITY CAR MULTIMARCAS
+KA,FORD,46990.0,69292.0,manual,flex,Branco,2017,False,81 AUTOS 
+ROVER,LAND,154000.0,62408.0,automatico,gasolina,Preto,2015,False,DNA Multimarcas - Aracaju
+SANDERO,RENAULT,63000.0,50000.0,automatico,flex,Branco,2019,False,JLA Corretora
+KA,FORD,19500.0,110000.0,manual,flex,Preto,2013,False,Dirceu Veículos
+FRONTIER,NISSAN,95000.0,132000.0,automatico,diesel,Preto,2013,False,Dirceu Veículos
+C3,CITROËN,52000.0,33000.0,automatico,flex,Branco,2018,False,Dirceu Veículos
+MOBI,FIAT,47000.0,22000.0,manual,flex,Branco,2020,False,Dirceu Veículos
+COROLLA,TOYOTA,78000.0,60000.0,automatico,flex,Branco,2016,False,Dirceu Veículos
+KWID,RENAULT,47000.0,31000.0,manual,flex,Branco,2020,False,Dirceu Veículos
+GOL,VOLKSWAGEN,25500.0,122000.0,manual,flex,Prata,2013,False,Dirceu Veículos
+RENEGADE,JEEP,76000.0,130000.0,automatico,flex,Branco,2017,False,Sergipe Veiculos
+RANGER,FORD,175000.0,57236.0,automatico,diesel,Cinza,2019,False,GILVAN VEÍCULOS
+AMAROK,VOLKSWAGEN,142990.0,78778.0,automatico,diesel,Branco,2020,False,Autoforte Veículos Ltda
+PRISMA,CHEVROLET,52000.0,77099.0,manual,flex,Branco,2017,False,KM VEÍCULOS
+TRACKER,CHEVROLET,86000.0,42000.0,automatico,flex,Branco,2017,False,MCAR MULTIMARCAS
+ONIX,CHEVROLET,89900.0,43422.0,automatico,flex,Branco,2020,False,HORIZONTE VEÍCULOS
+KA,FORD,48990.0,133884.0,manual,flex,Branco,2018,False,FABÃO VEÍCULOS
+408,PEUGEOT,43990.0,79586.0,automatico,flex,Branco,2014,False,FABÃO VEÍCULOS
+JETTA,VOLKSWAGEN,62990.0,153307.0,,flex,Cinza,2013,False,FABÃO VEÍCULOS
+YARIS,TOYOTA,87990.0,38839.0,,flex,Branco,2020,False,FABÃO VEÍCULOS
+HB20,HYUNDAI,72990.0,49732.0,automatico,flex,Branco,2019,False,FABÃO VEÍCULOS
+COROLLA,TOYOTA,61990.0,108770.0,automatico,flex,Prata,2013,False,FABÃO VEÍCULOS
+Q5,AUDI,220000.0,25259.0,,gasolina,Preto,2019,False,Gama Seminovos 
+TORO,FIAT,126000.0,88181.0,automatico,diesel,Branco,2019,False,MARVEL VEÍCULOS SEMINOVOS
+POLO,VOLKSWAGEN,101990.0,7685.0,,flex,Preto,2022,False,Manchete Multimarcas
+VOYAGE,VOLKSWAGEN,68990.0,45083.0,manual,flex,Branco,2021,False,Manchete Multimarcas
+FRONTIER,NISSAN,155990.0,65599.0,manual,diesel,Branco,2020,False,GUIMA VEICULOS - CHERY
+RENEGADE,JEEP,129870.0,78000.0,automatico,diesel,Prata,2020,False,FOFÃO MULTIMARCAS
+FOCUS,FORD,70000.0,27436.0,,flex,Branco,2018,False,Sergipe Veiculos
+SAVEIRO,VOLKSWAGEN,64000.0,43000.0,manual,flex,Branco,2020,False,MENDONÇA VEÍCULOS
+AMAROK,VOLKSWAGEN,112900.0,118520.0,manual,diesel,Prata,2017,False,Isaias Automóveis - Aracaju
+L200,MITSUBISHI,75000.0,156208.0,manual,diesel,Prata,2012,False,Isaias Automóveis - Aracaju
+ECOSPORT,FORD,89900.0,55082.0,automatico,flex,Prata,2020,False,HORIZONTE VEÍCULOS
+HB20S,HYUNDAI,63000.0,77407.0,manual,flex,Prata,2019,False,ROGÉRIO AUTOMÓVEIS
+UNO,FIAT,37900.0,110000.0,manual,flex,Branco,2016,False,ATLANTIC MULTIMARCAS
+RANGER,FORD,227000.0,24342.0,automatico,diesel,Cinza,2021,False,Isaias Automóveis - Aracaju
+COMPASS,JEEP,172000.0,89037.0,automatico,diesel,Branco,2019,False,CAMESA AUTOMÓVEIS
+HB20,HYUNDAI,44000.0,104000.0,automatico,flex,Preto,2014,False,Talyson Kelvin Freire Ramos
+CROSSFOX,VOLKSWAGEN,40900.0,149547.0,manual,flex,Vermelho,2013,False,HORIZONTE VEÍCULOS
+HR-V,HONDA,85900.0,79000.0,automatico,flex,Cinza,2016,False,HORIZONTE VEÍCULOS
+RENEGADE,JEEP,99900.0,63000.0,automatico,flex,Cinza,2021,False,HORIZONTE VEÍCULOS
+L200,MITSUBISHI,175000.0,102173.0,manual,diesel,Branco,2019,False,GILVAN VEÍCULOS
+COMPASS,JEEP,135990.0,22868.0,,diesel,Preto,2018,False,Gama Veiculos -Seminovos
+RANGER,FORD,165990.0,59142.0,automatico,diesel,Cinza,2019,False,Gama Veiculos -Seminovos
+RANGER,FORD,189990.0,58068.0,automatico,diesel,Cinza,2019,False,Gama Veiculos -Seminovos
+C3,CITROËN,42900.0,65345.0,manual,flex,Branco,2015,False,Automania Multimarcas - Aracaju
+ONIX,CHEVROLET,65990.0,84021.0,manual,flex,Branco,2017,False,HN Veículos
+VOYAGE,VOLKSWAGEN,78990.0,15653.0,manual,flex,Cinza,2021,False,HN Veículos
+AMAROK,VOLKSWAGEN,225000.0,24000.0,automatico,,Branco,2021,False,Auto Flex
+PICANTO,KIA,45000.0,65000.0,automatico,flex,Preto,2013,False,JLA Corretora
+UNO,FIAT,50000.0,54596.0,,flex,Branco,2021,False,GILVAN VEÍCULOS
+FRONTIER,NISSAN,207000.0,39500.0,automatico,diesel,Preto,2021,False,Isaias Automóveis - Aracaju
+SIENA,FIAT,36000.0,113786.0,automatico,flex,Prata,2013,False,FÁBIO TELES VEÍCULOS
+COROLLA,TOYOTA,159000.0,17017.0,automatico,flex,Vermelho,2022,False,NETTO VEICULOS
+POLO,VOLKSWAGEN,82000.0,58732.0,automatico,flex,Branco,2019,False,Gama  Seminovos - Aracaju
+HB20,HYUNDAI,89000.0,16883.0,automatico,flex,Prata,2021,False,Isaias Automóveis - Aracaju
+TORO,FIAT,122000.0,84042.0,automatico,diesel,Vermelho,2017,False,VIA CAR VEÍCULOS
+COROLLA,TOYOTA,110000.0,50000.0,automatico,flex,Branco,2019,False,Junior Veículos
+ASX,MITSUBISHI,105000.0,76762.0,automatico,flex,Branco,2018,False,KODAUTOS SEMINOVOS
+KWID,RENAULT,47000.0,78783.0,manual,flex,Branco,2018,False,KODAUTOS SEMINOVOS
+T-CROSS,VOLKSWAGEN,118000.0,9240.0,automatico,flex,Branco,2022,False,KODAUTOS SEMINOVOS
+TIGUAN,VOLKSWAGEN,156000.0,26100.0,,flex,Prata,2020,False,Fabão Seminovos
+POLO,VOLKSWAGEN,92800.0,39000.0,automatico,flex,Prata,2020,False,Fabão Seminovos
+JETTA,VOLKSWAGEN,74800.0,118283.0,,flex,Branco,2016,False,Fabão Seminovos
+NIVUS,VOLKSWAGEN,121800.0,29224.0,automatico,flex,Vermelho,2021,False,Fabão Seminovos
+COMPASS,JEEP,178990.0,38588.0,automatico,diesel,Azul,2021,False,Gama Veiculos -Seminovos
+KA,FORD,55900.0,62447.0,manual,flex,Branco,2020,False,FÁBIO TELES VEÍCULOS
+HB20,HYUNDAI,54990.0,61257.0,,flex,Prata,2017,False,FÁBIO TELES VEÍCULOS
+VERSA,NISSAN,53990.0,70832.0,manual,flex,Preto,2019,False,FÁBIO TELES VEÍCULOS
+HB20S,HYUNDAI,48000.0,106181.0,manual,flex,Prata,2014,False,FÁBIO TELES VEÍCULOS
+LOGAN,RENAULT,53500.0,45742.0,manual,flex,Preto,2020,False,FÁBIO TELES VEÍCULOS
+FIESTA,FORD,57900.0,86607.0,manual,flex,Prata,2018,False,FÁBIO TELES VEÍCULOS
+CITY,HONDA,67990.0,65064.0,automatico,flex,Prata,2016,False,FÁBIO TELES VEÍCULOS
+GOL,VOLKSWAGEN,62990.0,24381.0,manual,flex,Preto,2021,False,FÁBIO TELES VEÍCULOS
+SIENA,FIAT,51990.0,70919.0,manual,flex,Preto,2016,False,FÁBIO TELES VEÍCULOS
+POLO,VOLKSWAGEN,74000.0,75000.0,manual,flex,Branco,2020,False,Sergipe Veiculos
+UNO,FIAT,45000.0,77000.0,manual,flex,Branco,2015,False,Sergipe Veiculos
+FRONTIER,NISSAN,184000.0,68000.0,automatico,diesel,Preto,2019,False,Mago Automóveis - Aracaju
+NIVUS,VOLKSWAGEN,135000.0,7000.0,automatico,flex,Cinza,2021,False,GORDINHO AUTOMÓVEIS - Aracaju
+COMPASS,JEEP,142000.0,75920.0,automatico,diesel,Cinza,2018,False,Vip Automóveis - Aracaju
+MOBI,FIAT,55500.0,37000.0,manual,flex,Branco,2021,False,MGM AUTOMÓVEIS
+CRONOS,FIAT,73990.0,24115.0,manual,flex,Vermelho,2019,False,Credi-Auto Veículos - Aracaju
+L200,MITSUBISHI,115000.0,115000.0,automatico,diesel,Prata,2012,False,Sergipe Veiculos
+VIRTUS,VOLKSWAGEN,75000.0,77000.0,manual,flex,Prata,2018,False,Sergipe Veiculos
+EDGE,FORD,78900.0,55184.0,automatico,gasolina,Branco,2013,False,DNA Multimarcas - Aracaju
+ONIX,CHEVROLET,79900.0,17000.0,manual,flex,Branco,2020,False,2A Automóveis
+ONIX,CHEVROLET,65900.0,37812.0,manual,flex,Branco,2020,False,2A Automóveis
+KWID,RENAULT,59900.0,2948.0,manual,flex,Preto,2022,False,2A Automóveis
+VOYAGE,VOLKSWAGEN,67900.0,70413.0,manual,flex,Prata,2021,False,2A Automóveis
+HB20S,HYUNDAI,68900.0,54950.0,manual,flex,Preto,2018,False,2A Automóveis
+KWID,RENAULT,58900.0,11600.0,manual,flex,Laranja,2022,False,2A Automóveis
+KWID,RENAULT,51900.0,6774.0,manual,flex,Vermelho,2020,False,2A Automóveis
+RENEGADE,JEEP,110900.0,28000.0,automatico,flex,Branco,2021,False,2A Automóveis
+ONIX,CHEVROLET,49900.0,43200.0,manual,flex,Branco,2018,False,2A Automóveis
+DUSTER,RENAULT,82900.0,47800.0,manual,flex,Branco,2020,False,2A Automóveis
+MOBI,FIAT,49900.0,35129.0,manual,flex,Branco,2020,False,2A Automóveis
+POLO,VOLKSWAGEN,66900.0,40000.0,manual,flex,Cinza,2019,False,2A Automóveis
+UNO,FIAT,54900.0,37900.0,,flex,Branco,2021,False,2A Automóveis
+CIVIC,HONDA,117900.0,28859.0,automatico,flex,Branco,2020,False,2A Automóveis
+STRADA,FIAT,83900.0,69400.0,manual,flex,Branco,2019,False,2A Automóveis
+KWID,RENAULT,60900.0,12000.0,manual,flex,Prata,2022,False,2A Automóveis
+FOX,VOLKSWAGEN,66900.0,33698.0,manual,flex,Cinza,2020,False,2A Automóveis
+HB20S,HYUNDAI,65900.0,68388.0,automatico,flex,Branco,2018,False,2A Automóveis
+KA,FORD,42000.0,87000.0,manual,flex,Preto,2015,False,CITY CAR MULTIMARCAS
+HB20,HYUNDAI,56800.0,74663.0,manual,flex,Preto,2016,False,Isaias Automóveis - Aracaju
+TORO,FIAT,128990.0,30902.0,automatico,diesel,Branco,2021,False,Toyolex Seminovos - Aracaju
+TORO,FIAT,124990.0,44903.0,automatico,diesel,Branco,2021,False,Toyolex Seminovos - Aracaju
+GOL,VOLKSWAGEN,61990.0,12904.0,manual,flex,Branco,2022,False,Toyolex Seminovos - Aracaju
+TORO,FIAT,206990.0,11748.0,automatico,diesel,Vermelho,2022,False,Manchete Multimarcas
+HR-V,HONDA,104990.0,79853.0,automatico,flex,Vermelho,2018,False,Gama  Seminovos - Aracaju
+AMAROK,VOLKSWAGEN,214990.0,130157.0,automatico,diesel,Branco,2019,False,Gama  Seminovos - Aracaju
+IX35,HYUNDAI,96990.0,68085.0,automatico,flex,Grafite,2017,False,Gama  Seminovos - Aracaju
+ONIX,CHEVROLET,69990.0,82653.0,manual,flex,Preto,2020,False,Gama  Seminovos - Aracaju
+VERSA,NISSAN,65990.0,84462.0,,flex,Cinza,2017,False,Gama  Seminovos - Aracaju
+NIVUS,VOLKSWAGEN,126990.0,48023.0,automatico,flex,Vermelho,2021,False,Gama  Seminovos - Aracaju
+CROSSFOX,VOLKSWAGEN,45000.0,74000.0,manual,flex,Vermelho,2012,False,GORDINHO AUTOMÓVEIS - Aracaju
+CRONOS,FIAT,85000.0,72000.0,automatico,flex,Branco,2020,False,GORDINHO AUTOMÓVEIS - Aracaju
+ONIX,CHEVROLET,71990.0,21460.0,automatico,flex,Prata,2017,False,HN Veículos
+ONIX,CHEVROLET,49000.0,85000.0,automatico,flex,Prata,2014,False,JLA Corretora
+SANDERO,RENAULT,47900.0,52771.0,automatico,flex,Prata,2015,False,ATLANTIC MULTIMARCAS
+POLO,VOLKSWAGEN,79500.0,31000.0,automatico,flex,Branco,2019,False,GORDINHO AUTOMÓVEIS - Aracaju
+POLO,VOLKSWAGEN,74900.0,75000.0,automatico,flex,Preto,2018,False,Automania Multimarcas - Aracaju
+IX35,HYUNDAI,97900.0,84000.0,automatico,flex,2019,2019,False,Automania Multimarcas - Aracaju
+VIRTUS,VOLKSWAGEN,84900.0,110000.0,automatico,flex,Branco,2019,False,Automania Multimarcas - Aracaju
+STRADA,FIAT,53900.0,68000.0,manual,flex,Branco,2017,False,BS Automoveis Ltda 
+VOYAGE,VOLKSWAGEN,56800.0,89000.0,manual,flex,Branco,2019,False,ACESSO VEÍCULOS
+STRADA,FIAT,61900.0,95232.0,manual,flex,Branco,2019,False,ACESSO VEÍCULOS
+SANDERO,RENAULT,55900.0,1111.0,manual,flex,Branco,2021,False,ACESSO VEÍCULOS
+KA,FORD,57500.0,34697.0,manual,flex,Branco,2021,False,ACESSO VEÍCULOS
+RANGER,FORD,162800.0,80472.0,automatico,diesel,Preto,2019,False,Fabão Seminovos
+COMPASS,JEEP,199800.0,28152.0,automatico,diesel,Preto,2021,False,Fabão Seminovos
+HB20X,HYUNDAI,93000.0,8700.0,automatico,flex,2021,2021,False,EDSON DA SILVA ALMEIDA
+UP,VOLKSWAGEN,50990.0,86904.0,manual,flex,Vermelho,2017,False,Toyolex Seminovos - Aracaju
+AMAROK,VOLKSWAGEN,97000.0,105000.0,manual,diesel,Branco,2014,False,Sergipe Veiculos
+COMPASS,JEEP,125000.0,121000.0,automatico,diesel,Vinho,2017,False,Douglas Messias 
+GOL,VOLKSWAGEN,32900.0,70000.0,manual,flex,Branco,2015,False,WT Veículos
+RENEGADE,JEEP,117990.0,53904.0,automatico,diesel,Branco,2019,False,Toyolex Seminovos - Aracaju
+A3,AUDI,125990.0,26000.0,,flex,Preto,2019,False,Estácio da Silveira Lima
+A,MERCEDES-BENZ,136000.0,22200.0,automatico,gasolina,Cinza,2019,False,JULIANA VEICULOS
+SENTRA,NISSAN,57500.0,87000.0,automatico,flex,Azul,2014,False,BK MULTIMARCAS 
+PRISMA,CHEVROLET,64500.0,56000.0,,flex,Cinza,2019,False,BK MULTIMARCAS 
+KA,FORD,48000.0,93000.0,manual,flex,Preto,2018,False,Sergipe Veiculos
+KICKS,NISSAN,89990.0,69000.0,,flex,Branco,2017,False,Sergipe Veiculos
+ARRIZO,CHERY,111990.0,31800.0,automatico,flex,Branco,2021,False,ALLAN Corretora
+PRISMA,CHEVROLET,56000.0,86000.0,manual,flex,Preto,2018,False,Junior Veículos
+SPIN,CHEVROLET,90000.0,49000.0,automatico,flex,Branco,2020,False,WT Veículos
+HILUX,TOYOTA,210000.0,64000.0,automatico,flex,Branco,2019,False,WT Veículos
+FOX,VOLKSWAGEN,43000.0,82000.0,manual,flex,Branco,2014,False,PIRES AUTOMÓVEIS
+SANDERO,RENAULT,49900.0,72000.0,manual,flex,Branco,2019,False,BK MULTIMARCAS 
+EQUINOX,CHEVROLET,147990.0,72226.0,automatico,gasolina,Preto,2018,False,CITY CAR MULTIMARCAS
+HILUX,TOYOTA,119990.0,300.0,manual,diesel,Prata,2013,False,Grupo R1 Autos 
+HILUX,TOYOTA,225.0,85600.0,automatico,flex,2019,2019,False,JULIANA VEICULOS
+T-CROSS,VOLKSWAGEN,110000.0,40000.0,automatico,flex,Cinza,2020,False,Mago Automóveis - Aracaju
+VERSA,NISSAN,63900.0,47384.0,automatico,flex,Prata,2018,False,CITY CAR MULTIMARCAS
+FOX,VOLKSWAGEN,59000.0,54265.0,,flex,Branco,2019,False,PRIMECAR AUTOMÓVEIS
+GRAND,NISSAN,38990.0,95000.0,automatico,flex,Preto,2013,False,WT Veículos
+SPIN,CHEVROLET,65990.0,89000.0,manual,flex,Branco,2018,False,WT Veículos
+HB20,HYUNDAI,43990.0,85000.0,manual,flex,Prata,2014,False,WT Veículos
+HILUX,TOYOTA,149000.0,120000.0,automatico,diesel,Bege,2013,False,Edson Veículos - Aracaju
+HB20,HYUNDAI,92000.0,41359.0,automatico,flex,Grafite,2021,False,GILVAN VEÍCULOS
+PAJERO,MITSUBISHI,114000.0,152217.0,automatico,diesel,Prata,2013,False,Isaias Automóveis - Aracaju
+FRONTIER,NISSAN,199000.0,59448.0,automatico,diesel,Branco,2020,False,Isaias Automóveis - Aracaju
+COMPASS,JEEP,142990.0,75000.0,,diesel,Branco,2019,False,GUIMA VEICULOS - CHERY
+TORO,FIAT,115000.0,93000.0,manual,diesel,Branco,2018,False,IDEAL MULTIMARCAS
+CAPTUR,RENAULT,81000.0,51200.0,,flex,Marrom,2019,False,IDEAL MULTIMARCAS
+KICKS,NISSAN,93000.0,76000.0,,flex,Prata,2018,False,Sergipe Veiculos
+TORO,FIAT,134800.0,79038.0,automatico,diesel,Branco,2018,False,Edson Veículos - Aracaju
+AMAROK,VOLKSWAGEN,135000.0,127000.0,automatico,diesel,Branco,2016,False,Leandro catao nogueira 
+C4,CITROËN,50000.0,46299.0,automatico,flex,Preto,2015,False,Humberto Torres
+IX35,HYUNDAI,72000.0,110000.0,automatico,flex,2015,2015,False,Jose adauto barbosa pugliesi
+X1,BMW,186000.0,57000.0,automatico,flex,Branco,2019,False,JULIANA VEICULOS
+328i,BMW,138000.0,41400.0,automatico,gasolina,Branco,2015,False,JULIANA VEICULOS
+320i,BMW,134000.0,27300.0,automatico,flex,Branco,2018,False,JULIANA VEICULOS
+GLA,MERCEDES-BENZ,156000.0,59000.0,automatico,flex,Branco,2018,False,JULIANA VEICULOS
+HB20X,HYUNDAI,64990.0,39904.0,automatico,flex,Branco,2018,False,Toyolex Seminovos - Aracaju
+COMPASS,JEEP,145000.0,20060.0,automatico,flex,Vermelho,2017,False,GILVAN VEÍCULOS
+A3,AUDI,114900.0,39000.0,automatico,gasolina,Azul,2018,False,BK MULTIMARCAS 
+HB20S,HYUNDAI,66000.0,61000.0,manual,flex,Prata,2019,False,Sergipe Veiculos
+SANDERO,RENAULT,39000.0,97000.0,manual,flex,Branco,2014,False,Sergipe Veiculos
+FOX,VOLKSWAGEN,64000.0,38000.0,manual,flex,Branco,2019,False,JLA Corretora
+AIRCROSS,CITROËN,55000.0,100000.0,manual,flex,Vermelho,2018,False,Sergipe Veiculos
+RENEGADE,JEEP,110000.0,100000.0,automatico,diesel,Branco,2016,False,Sergipe Veiculos
+GOL,VOLKSWAGEN,55000.0,38000.0,manual,flex,Branco,2019,False,Sergipe Veiculos
+DUSTER,RENAULT,54000.0,120000.0,manual,flex,Prata,2014,False,Sergipe Veiculos
+UNO,FIAT,42000.0,78000.0,manual,flex,Branco,2014,False,Sergipe Veiculos
+ONIX,CHEVROLET,96000.0,53000.0,automatico,flex,Prata,2021,False,Sergipe Veiculos
+KICKS,NISSAN,90000.0,69000.0,,flex,Branco,2017,False,Sergipe Veiculos
+CAPTUR,RENAULT,83500.0,129976.0,,flex,Laranja,2019,False,GILVAN VEÍCULOS
+SAVEIRO,VOLKSWAGEN,68990.0,65300.0,manual,flex,Branco,2019,False,Grupo R1 Autos 
+ASX,MITSUBISHI,79990.0,80044.0,automatico,gasolina,Preto,2015,False,ZITO MULTIMARCAS
+KWID,RENAULT,57990.0,20700.0,manual,flex,Branco,2021,False,Grupo R1 Autos 
+CRETA,HYUNDAI,104990.0,20800.0,automatico,flex,Prata,2021,False,Grupo R1 Autos 
+HR-V,HONDA,88990.0,55700.0,automatico,flex,Prata,2016,False,Grupo R1 Autos 
+TIGGO,CHERY,185000.0,10000.0,automatico,gasolina,Cinza,2022,False,BK MULTIMARCAS 
+COMPASS,JEEP,185000.0,17900.0,automatico,diesel,Azul,2021,False,Junior Veículos
+COMPASS,JEEP,139000.0,78000.0,automatico,diesel,Cinza,2018,False,Mago Automóveis - Aracaju
+RANGER,FORD,165000.0,141000.0,automatico,diesel,Branco,2017,False,KM VEÍCULOS
+AMAROK,VOLKSWAGEN,155000.0,88000.0,automatico,diesel,Prata,2018,False,Sergipe Veiculos
+Q3,AUDI,110000.0,80000.0,,flex,Branco,2014,False,Sergipe Veiculos
+ONIX,CHEVROLET,87990.0,16900.0,automatico,flex,Preto,2020,False,Grupo R1 Autos 
+RANGER,FORD,125000.0,119.0,automatico,diesel,Preto,2014,False,Alexsandro Cunha dos Santos 
+CERATO,KIA,133000.0,12000.0,automatico,flex,Grafite,2022,False,Credi-Auto Veículos - Aracaju
+STRADA,FIAT,84990.0,54200.0,manual,flex,Prata,2019,False,Grupo R1 Autos 
+PRISMA,CHEVROLET,71990.0,72500.0,automatico,flex,Branco,2017,False,Grupo R1 Autos 
+FIT,HONDA,79000.0,46000.0,automatico,flex,Branco,2018,False,WT Veículos
+RENEGADE,JEEP,82000.0,54000.0,automatico,flex,Vermelho,2016,False,PIRES AUTOMÓVEIS
+SANDERO,RENAULT,69990.0,31200.0,manual,flex,Branco,2020,False,Grupo R1 Autos 
+ONIX,CHEVROLET,90000.0,18000.0,,,Vermelho,2020,False,MATOS VEICULOS
+COROLLA,TOYOTA,96990.0,51000.0,automatico,flex,Marrom,2018,False,Grupo R1 Autos 
+COMPASS,JEEP,214990.0,18955.0,automatico,diesel,Preto,2021,False,ZITO MULTIMARCAS
+320i,BMW,134990.0,35000.0,automatico,flex,Vermelho,2015,False,ZITO MULTIMARCAS
+VIRTUS,VOLKSWAGEN,86000.0,40703.0,automatico,flex,Cinza,2018,False,Denis A. Ribeiro Reis
+AMAROK,VOLKSWAGEN,129990.0,78904.0,automatico,diesel,Preto,2018,False,Toyolex Seminovos - Aracaju
+ARGO,FIAT,69990.0,23100.0,manual,flex,Prata,2021,False,Grupo R1 Autos 
+HB20,HYUNDAI,49990.0,300.0,automatico,flex,Vermelho,2013,False,Grupo R1 Autos 
+RANGER,FORD,125990.0,300.0,automatico,diesel,Prata,2013,False,Grupo R1 Autos 
+KA,FORD,62990.0,25140.0,manual,flex,Branco,2021,False,Grupo R1 Autos 
+FOX,VOLKSWAGEN,57000.0,80000.0,manual,flex,2018,2018,False,Mago Automóveis - Aracaju
+TORO,FIAT,163000.0,58000.0,automatico,diesel,Branco,2020,False,Mago Automóveis - Aracaju
+CRETA,HYUNDAI,96900.0,40000.0,automatico,flex,Preto,2019,False,WT Veículos
+POLO,VOLKSWAGEN,86990.0,27200.0,automatico,flex,Branco,2020,False,Grupo R1 Autos 
+FIT,HONDA,91990.0,10200.0,automatico,flex,Branco,2021,False,ALLAN Corretora
+HILUX,TOYOTA,205000.0,113560.0,manual,diesel,Branco,2016,False,Scuderia Veículos e Pick-ups
+COMPASS,JEEP,126000.0,57000.0,automatico,flex,Preto,2019,False,WT Veículos
+STRADA,FIAT,79000.0,77000.0,manual,flex,Branco,2019,False,WT Veículos
+YARIS,TOYOTA,81000.0,48000.0,automatico,flex,Prata,2019,False,WT Veículos
+PRISMA,CHEVROLET,63990.0,68000.0,manual,flex,Branco,2017,False,WT Veículos
+KA,FORD,59990.0,35210.0,manual,flex,Vermelho,2021,False,ZITO MULTIMARCAS
+VOYAGE,VOLKSWAGEN,35990.0,103186.0,manual,flex,Cinza,2012,False,ZITO MULTIMARCAS
+POLO,VOLKSWAGEN,78990.0,52604.0,automatico,,Cinza,2018,False,ZITO MULTIMARCAS
+PALIO,FIAT,33500.0,98000.0,manual,flex,Vermelho,2014,False,BK MULTIMARCAS 
+HILUX,TOYOTA,161990.0,300.0,automatico,diesel,Branco,2014,False,Grupo R1 Autos 
+ONIX,CHEVROLET,48500.0,62000.0,manual,flex,Prata,2018,False,PERSONAL CAR  LTDA
+KICKS,NISSAN,92500.0,46000.0,,flex,Preto,2019,False,PERSONAL CAR  LTDA
+CRETA,HYUNDAI,99000.0,39000.0,automatico,flex,Prata,2021,False,WT Veículos
+COMPASS,JEEP,176000.0,60904.0,automatico,diesel,Branco,2019,False,Toyolex Seminovos - Aracaju
+CAPTUR,RENAULT,86500.0,50000.0,automatico,flex,Branco,2019,False,BK MULTIMARCAS 
+SENTRA,NISSAN,67500.0,62000.0,automatico,flex,Prata,2016,False,BK MULTIMARCAS 
+COROLLA,TOYOTA,108000.0,45000.0,automatico,flex,Prata,2019,False,BK MULTIMARCAS 
+KA,FORD,58500.0,21383.0,manual,flex,Branco,2021,False,SERTANEJO VEÍCULOS
+DUSTER,RENAULT,86990.0,42200.0,automatico,flex,Prata,2020,False,Grupo R1 Autos 
+GOL,VOLKSWAGEN,62800.0,64532.0,manual,flex,Prata,2021,False,Fabão Seminovos
+HB20S,HYUNDAI,66990.0,69100.0,automatico,flex,Branco,2017,False,Grupo R1 Autos 
+SPORTAGE,KIA,85990.0,1.0,automatico,flex,Preto,2014,False,Grupo R1 Autos 
+FRONTIER,NISSAN,191990.0,60200.0,automatico,diesel,Prata,2019,False,Grupo R1 Autos 
+LOGAN,RENAULT,57990.0,52300.0,automatico,flex,Branco,2020,False,Grupo R1 Autos 
+FIESTA,FORD,31900.0,89000.0,manual,flex,Branco,2014,False,Allan Moisés de Oliveira
+PRISMA,CHEVROLET,71990.0,54008.0,manual,flex,Cinza,2019,False,Grupo R1 Autos 
+RANGER,FORD,198000.0,54000.0,automatico,diesel,Branco,2021,False,Mago Automóveis - Aracaju
+C3,CITROËN,36990.0,62000.0,manual,flex,2015,2015,False,WT Veículos
+TUCSON,HYUNDAI,52990.0,78000.0,automatico,flex,Preto,2015,False,WT Veículos
+KICKS,NISSAN,83900.0,62000.0,,flex,Preto,2017,False,WT Veículos
+GLA,MERCEDES-BENZ,156000.0,54000.0,automatico,flex,Preto,2018,False,Gama Seminovos 
+Q3,AUDI,119990.0,54916.0,,gasolina,Marrom,2017,False,Grupo R1 Autos 
+COMPASS,JEEP,139900.0,80000.0,automatico,diesel,Preto,2018,False,WT Veículos
+TORO,FIAT,142000.0,90000.0,automatico,diesel,Vinho,2020,False,WT Veículos
+PICANTO,KIA,43900.0,95000.0,automatico,flex,Prata,2016,False,WT Veículos
+207,PEUGEOT,25500.0,124000.0,manual,flex,Preto,2012,False,WT Veículos
+GOL,VOLKSWAGEN,47990.0,38000.0,manual,flex,Branco,2019,False,WT Veículos
+ECOSPORT,FORD,88000.0,32791.0,automatico,flex,Vermelho,2019,False,Edson Veículos - Aracaju
+RANGER,FORD,174990.0,76000.0,automatico,diesel,Branco,2019,False,Gama Seminovos 
+HILUX,TOYOTA,200540.0,99596.0,automatico,diesel,Prata,2016,False,Simone Chagas 
+COMPASS,JEEP,144990.0,53904.0,automatico,diesel,Vermelho,2019,False,Toyolex Seminovos - Aracaju
+HB20S,HYUNDAI,53500.0,147062.0,automatico,flex,Preto,2014,False,IDEAL MULTIMARCAS
+FOX,VOLKSWAGEN,59900.0,16000.0,manual,flex,Preto,2020,False,BK MULTIMARCAS 
+RANGER,FORD,219900.0,32000.0,automatico,diesel,Preto,2020,False,GUIMA PREMIUM
+CIVIC,HONDA,102900.0,80000.0,automatico,flex,Branco,2017,False,BK MULTIMARCAS 
+COMPASS,JEEP,107000.0,57600.0,automatico,flex,Branco,2018,False,Karina de oliveira dias
+COROLLA,TOYOTA,98900.0,40000.0,automatico,flex,Vermelho,2020,False,BK MULTIMARCAS 
+KICKS,NISSAN,89000.0,52000.0,,flex,Branco,2018,False,MATOS VEICULOS
+S10,CHEVROLET,159990.0,56210.0,manual,diesel,Prata,2020,False,Grupo R1 Autos 
+COMPASS,JEEP,155000.0,55000.0,automatico,diesel,Preto,2018,False,Sandra Barreto 
+KICKS,NISSAN,89000.0,63000.0,,flex,Marrom,2018,False,MATOS VEICULOS
+ECLIPSE,MITSUBISHI,152990.0,25700.0,automatico,gasolina,Cinza,2020,False,GUIMA PREMIUM
+NIVUS,VOLKSWAGEN,127990.0,21000.0,automatico,flex,Branco,2021,False,GUIMA PREMIUM
+STRADA,FIAT,65990.0,35000.0,manual,flex,Cinza,2015,False,GUIMA PREMIUM
+JETTA,VOLKSWAGEN,115000.0,61500.0,,gasolina,Preto,2016,False,PIRES AUTOMÓVEIS
+KA,FORD,46900.0,93051.0,manual,flex,Branco,2019,False,Equilíbrio Veículos
+COMPASS,JEEP,138000.0,78000.0,automatico,diesel,Preto,2017,False,GUIMA PREMIUM
+VERSA,NISSAN,61900.0,49930.0,manual,flex,Branco,2018,False,GUIMA PREMIUM
+S60,VOLVO,94990.0,58000.0,automatico,gasolina,Preto,2014,False,GUIMA PREMIUM
+COROLLA,TOYOTA,189990.0,6690.0,automatico,flex,Cinza,2022,False,GUIMA PREMIUM
+ONIX,CHEVROLET,55900.0,58000.0,manual,flex,Cinza,2019,False,BK MULTIMARCAS 
+ONIX,CHEVROLET,55000.0,88000.0,manual,flex,Branco,2019,False,Aline Cristiane da Silva Dias
+TORO,FIAT,175000.0,17000.0,automatico,diesel,Branco,2021,False,MATOS VEICULOS
+IX35,HYUNDAI,88000.0,81000.0,automatico,flex,Cinza,2017,False,VICTOR BARRETO DE LIMA ROCHA
+CAPTUR,RENAULT,88000.0,45610.0,,flex,Branco,2019,False,MATOS VEICULOS
+COMPASS,JEEP,177800.0,45000.0,automatico,diesel,Prata,2019,False,Edson Veículos - Aracaju
+T-CROSS,VOLKSWAGEN,109900.0,21000.0,automatico,flex,Branco,2020,False,VR SELECT CAR
+CRUZE,CHEVROLET,109900.0,40000.0,automatico,flex,Branco,2019,False,VR SELECT CAR
+Q3,AUDI,129990.0,45000.0,,gasolina,Branco,2017,False,Podium Automóveis 
+HB20,HYUNDAI,44990.0,101.0,manual,flex,Preto,2014,False,HN Veículos
+VERSA,NISSAN,49990.0,101.0,manual,flex,Preto,2017,False,HN Veículos
+ARGO,FIAT,72990.0,101.0,manual,flex,Prata,2021,False,HN Veículos
+PRISMA,CHEVROLET,46990.0,101.0,,flex,Preto,2015,False,HN Veículos
+CRUZE,CHEVROLET,61990.0,101.0,automatico,flex,Cinza,2014,False,HN Veículos
+MARCH,NISSAN,31990.0,101.0,manual,flex,Prata,2012,False,HN Veículos
+DUSTER,RENAULT,76900.0,40000.0,automatico,flex,Preto,2019,False,BK MULTIMARCAS 
+KWID,RENAULT,46990.0,101.0,manual,flex,Branco,2019,False,HN Veículos
+CAPTUR,RENAULT,82900.0,48000.0,,flex,Vermelho,2018,False,BK MULTIMARCAS 
+TRACKER,CHEVROLET,69990.0,101.0,automatico,flex,Vermelho,2015,False,HN Veículos
+KOMBI,VOLKSWAGEN,41990.0,101.0,manual,flex,Branco,2014,False,HN Veículos
+RENEGADE,JEEP,79990.0,101.0,automatico,flex,Vermelho,2017,False,HN Veículos
+CRETA,HYUNDAI,109990.0,101.0,manual,flex,Prata,2019,False,HN Veículos
+COROLLA,TOYOTA,86990.0,101.0,automatico,flex,Preto,2016,False,HN Veículos
+COMPASS,JEEP,175990.0,101.0,automatico,flex,Branco,2021,False,HN Veículos
+A5,AUDI,200900.0,56771.0,,gasolina,Preto,2018,False,Carneiro Automotores
+DUSTER,RENAULT,81900.0,39000.0,automatico,flex,Branco,2019,False,Carneiro Automotores
+FRONTIER,NISSAN,209900.0,35000.0,automatico,diesel,Prata,2019,False,Carneiro Automotores
+ONIX,CHEVROLET,91990.0,101.0,automatico,flex,Vermelho,2020,False,HN Veículos
+ONIX,CHEVROLET,93900.0,4000.0,automatico,flex,Prata,2021,False,Carneiro Automotores
+DUSTER,RENAULT,61900.0,96000.0,manual,flex,Prata,2017,False,Carneiro Automotores
+RANGER,FORD,148900.0,150000.0,automatico,diesel,Prata,2017,False,Carneiro Automotores
+RANGER,FORD,181900.0,58000.0,automatico,diesel,Cinza,2018,False,Carneiro Automotores
+CRUZE,CHEVROLET,94990.0,101.0,automatico,flex,Prata,2018,False,HN Veículos
+HILUX,TOYOTA,200000.0,42000.0,automatico,flex,Marrom,2019,False,Rodrigo Jose Albuquerque de Barros
+STRADA,FIAT,65900.0,65000.0,manual,flex,Branco,2019,False,BK MULTIMARCAS 
+T4,TROLLER,96990.0,101.0,,diesel,Branco,2012,False,HN Veículos
+TRACKER,CHEVROLET,95990.0,101.0,automatico,flex,Cinza,2018,False,HN Veículos
+MOBI,FIAT,41990.0,77196.0,manual,flex,Vermelho,2018,False,CONFIANCE Seminovos
+TUCSON,HYUNDAI,41990.0,101.0,automatico,gasolina,Preto,2012,False,HN Veículos
+STRADA,FIAT,113900.0,16167.0,manual,flex,Preto,2021,False,Batalha Veículos - Arapiraca
+COMPASS,JEEP,199990.0,101.0,automatico,diesel,Prata,2021,False,HN Veículos
+C4,CITROËN,81990.0,15000.0,automatico,flex,Prata,2020,False,Carneiro Automotores
+208,PEUGEOT,86900.0,2900.0,automatico,flex,Prata,2021,False,Carneiro Automotores
+C4,CITROËN,98900.0,12000.0,automatico,flex,Prata,2021,False,Carneiro Automotores
+SANDERO,RENAULT,39990.0,98000.0,automatico,flex,Branco,2018,False,CONFIANCE Seminovos
+ONIX,CHEVROLET,50900.0,59000.0,manual,flex,Azul,2018,False,Carneiro Automotores
+WR-V,HONDA,85990.0,101.0,automatico,flex,Branco,2018,False,HN Veículos
+RENEGADE,JEEP,121900.0,1600.0,automatico,flex,Cinza,2021,False,Carneiro Automotores
+T-CROSS,VOLKSWAGEN,103900.0,31000.0,automatico,flex,Branco,2020,False,Carneiro Automotores
+CRUZE,CHEVROLET,82990.0,101.0,automatico,flex,Azul,2017,False,HN Veículos
+KA,FORD,54990.0,101.0,manual,flex,Preto,2019,False,HN Veículos
+SANDERO,RENAULT,41990.0,101.0,manual,flex,Branco,2015,False,HN Veículos
+5008,PEUGEOT,159900.0,34000.0,automatico,gasolina,Preto,2019,False,Rafael Cabral
+LOGAN,RENAULT,77990.0,101.0,manual,flex,Branco,2022,False,HN Veículos
+SPIN,CHEVROLET,78990.0,101.0,automatico,flex,Prata,2019,False,HN Veículos
+500,FIAT,35990.0,101.0,manual,flex,Preto,2012,False,HN Veículos
+COMPASS,JEEP,214990.0,101.0,automatico,diesel,Branco,2021,False,HN Veículos
+ONIX,CHEVROLET,58990.0,101.0,automatico,flex,Branco,2018,False,HN Veículos
+SANDERO,RENAULT,45990.0,101.0,automatico,flex,Branco,2018,False,HN Veículos
+SANDERO,RENAULT,25990.0,101.0,automatico,flex,Prata,2013,False,HN Veículos
+CRUZE,CHEVROLET,109990.0,101.0,automatico,flex,Branco,2020,False,HN Veículos
+ONIX,CHEVROLET,79990.0,101.0,automatico,flex,Branco,2020,False,HN Veículos
+AMAROK,VOLKSWAGEN,134990.0,101.0,manual,diesel,Branco,2019,False,HN Veículos
+SPIN,CHEVROLET,59990.0,101.0,manual,flex,Prata,2019,False,HN Veículos
+VOYAGE,VOLKSWAGEN,41990.0,35000.0,manual,flex,Prata,2018,False,Junior's Veiculos
+FOCUS,FORD,40990.0,60534.0,automatico,flex,Branco,2014,False,ZS Veículos
+A1,AUDI,56990.0,66000.0,automatico,gasolina,Branco,2013,False,ZS Veículos
+SIENA,FIAT,30990.0,62359.0,manual,flex,Prata,2014,False,ZS Veículos
+ASX,MITSUBISHI,49990.0,77419.0,automatico,gasolina,Branco,2012,False,ZS Veículos
+Q3,AUDI,104990.0,21612.0,,flex,Azul,2017,False,ZS Veículos
+118i,BMW,39000.0,97242.0,automatico,gasolina,Cinza,2012,False,Mil & Um Automóveis
+COROLLA,TOYOTA,56990.0,69822.0,automatico,flex,Prata,2013,False,Indique Auto
+HILUX,TOYOTA,85990.0,111288.0,automatico,flex,Prata,2015,False,Indique Auto
+GOL,VOLKSWAGEN,37990.0,13000.0,manual,flex,Preto,2017,False,Indique Auto
+COROLLA,TOYOTA,83990.0,28858.0,automatico,flex,Azul,2017,False,Indique Auto
+PICANTO,KIA,31990.0,62000.0,automatico,flex,2012,2012,False,Indique Auto
+HB20,HYUNDAI,52990.0,15000.0,manual,flex,Prata,2016,False,Indique Auto
+MARCH,NISSAN,34990.0,30000.0,manual,flex,2016,2016,False,Indique Auto
+318i,BMW,63990.0,67000.0,automatico,gasolina,Preto,2012,False,Indique Auto
+500,FIAT,52990.0,22250.0,automatico,flex,Branco,2014,False,Indique Auto
